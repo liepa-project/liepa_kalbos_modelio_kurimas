@@ -1,12 +1,4787 @@
-<s> koks pelno mokesčio įmokos kodas </s>
-<s> kokie pelno mokesčio tarifai </s>
-<s> kaip įsigyti verslo liudijimą </s>
-<s> laba diena </s>
-<s> labas vakaras </s>
-<s> laba </s>
-<s> kaip pradėti deklaracijos pildymą portale </s>
-<s> kaip galima atsispausdinti deklaraciją </s>
-<s> ar galima pildyti patikslintą deklaraciją portale </s>
-<s> ačiū </s>
-<s> dėkoju </s>
-<s> viso gero </s>
+<s> afrikos amžius </s>
+<s> afrikos civilizacija </s>
+<s> afrikos ekonomika </s>
+<s> afrikos gyventojų skaičius </s>
+<s> afrikos istorija </s>
+<s> afrikos kalbos </s>
+<s> afrikos klimatas </s>
+<s> afrikos kultūra </s>
+<s> afrikos nuotraukos </s>
+<s> afrikos plotas </s>
+<s> afrikos tautos </s>
+<s> afrikos vaizdai </s>
+<s> afrikos žemyno amžius </s>
+<s> afrikos žemyno civilizacija </s>
+<s> afrikos žemyno ekonomika </s>
+<s> afrikos žemyno gyventojų skaičius </s>
+<s> afrikos žemyno istorija </s>
+<s> afrikos žemyno kalbos </s>
+<s> afrikos žemyno klimatas </s>
+<s> afrikos žemyno kultūra </s>
+<s> afrikos žemyno nuotraukos </s>
+<s> afrikos žemyno plotas </s>
+<s> afrikos žemyno tautos </s>
+<s> afrikos žemyno vaizdai </s>
+<s> airija susikūrė </s>
+<s> airija žemėlapyje </s>
+<s> airijos bendrasis vidaus produktas </s>
+<s> airijos didžiausi miestai </s>
+<s> airijos ekonomika </s>
+<s> airijos ežerai </s>
+<s> airijos gamta </s>
+<s> airijos gyventojų skaičius </s>
+<s> airijos herbas </s>
+<s> airijos istorija </s>
+<s> airijos jūrų uostai </s>
+<s> airijos kalba </s>
+<s> airijos kalbos </s>
+<s> airijos karai </s>
+<s> airijos karaliai </s>
+<s> airijos kraštovaizdis </s>
+<s> airijos kultūra </s>
+<s> airijos kultūros objektai </s>
+<s> airijos kurortai </s>
+<s> airijos nepriklausomybė </s>
+<s> airijos nuotraukos </s>
+<s> airijos oro uostai </s>
+<s> airijos pinigai </s>
+<s> airijos plotas </s>
+<s> airijos politinė santvarka </s>
+<s> airijos pragvenimo lygis </s>
+<s> airijos pramonė </s>
+<s> airijos sostinė </s>
+<s> airijos tautos </s>
+<s> airijos universitetai </s>
+<s> airijos upės </s>
+<s> airijos vaizdai </s>
+<s> airijos valdovai </s>
+<s> airijos vėliava </s>
+<s> airijos žemėlapis </s>
+<s> aliaska susikūrė </s>
+<s> aliaska žemėlapyje </s>
+<s> aliaskos bendrasis vidaus produktas </s>
+<s> aliaskos didžiausi miestai </s>
+<s> aliaskos ekonomika </s>
+<s> aliaskos ežerai </s>
+<s> aliaskos gamta </s>
+<s> aliaskos gyventojų skaičius </s>
+<s> aliaskos herbas </s>
+<s> aliaskos istorija </s>
+<s> aliaskos jūrų uostai </s>
+<s> aliaskos kalba </s>
+<s> aliaskos kalbos </s>
+<s> aliaskos karai </s>
+<s> aliaskos karaliai </s>
+<s> aliaskos kraštovaizdis </s>
+<s> aliaskos kultūra </s>
+<s> aliaskos kultūros objektai </s>
+<s> aliaskos kurortai </s>
+<s> aliaskos nepriklausomybė </s>
+<s> aliaskos nuotraukos </s>
+<s> aliaskos oro uostai </s>
+<s> aliaskos pinigai </s>
+<s> aliaskos plotas </s>
+<s> aliaskos politinė santvarka </s>
+<s> aliaskos pragvenimo lygis </s>
+<s> aliaskos pramonė </s>
+<s> aliaskos sostinė </s>
+<s> aliaskos tautos </s>
+<s> aliaskos universitetai </s>
+<s> aliaskos upės </s>
+<s> aliaskos vaizdai </s>
+<s> aliaskos valdovai </s>
+<s> aliaskos vėliava </s>
+<s> aliaskos žemėlapis </s>
+<s> alpių kalnai žemėlapyje </s>
+<s> alpių kalnų nuotraukos </s>
+<s> alpių kalnų vaizdai </s>
+<s> alpių kalnų žemėlapis </s>
+<s> alpių nuotraukos </s>
+<s> alpių vaizdai </s>
+<s> alpių žemėlapis </s>
+<s> alpės žemėlapyje </s>
+<s> amanas įkurtas </s>
+<s> amanas žemėlapyje </s>
+<s> amano gyventojų skaičius </s>
+<s> amano gyventojų tankis </s>
+<s> amano istorija </s>
+<s> amano lankytinos vietos </s>
+<s> amano muziejai </s>
+<s> amano nuotraukos </s>
+<s> amano plotas </s>
+<s> amano transportas </s>
+<s> amano vaizdai </s>
+<s> amano žemėlapis </s>
+<s> amazonė maitina </s>
+<s> amazonė užlieja pievas </s>
+<s> amazonėje neršia </s>
+<s> amazonėje veisiasi </s>
+<s> amazonės amžius </s>
+<s> amazonės apsemiamos teritorijos </s>
+<s> amazonės augalija </s>
+<s> amazonės aukštupys </s>
+<s> amazonės baseinas </s>
+<s> amazonės baseinas ribojasi </s>
+<s> amazonės baseino plotas </s>
+<s> amazonės bioįvairovė </s>
+<s> amazonės debitas </s>
+<s> amazonės dešinieji intakai </s>
+<s> amazonės dugnas </s>
+<s> amazonės giliausia vieta </s>
+<s> amazonės gražiausios vietos </s>
+<s> amazonės gylis </s>
+<s> amazonės gyvūnija </s>
+<s> amazonės hidroelektrinės </s>
+<s> amazonės ilgiausi intakai </s>
+<s> amazonės ilgiausieji intakai </s>
+<s> amazonės ilgis </s>
+<s> amazonės intakai </s>
+<s> amazonės ištekliai </s>
+<s> amazonės kairieji intakai </s>
+<s> amazonės krantai </s>
+<s> amazonės krantas </s>
+<s> amazonės ledas </s>
+<s> amazonės ledo danga </s>
+<s> amazonės ledo storis </s>
+<s> amazonės ledonešis </s>
+<s> amazonės ledų sangrūdos </s>
+<s> amazonės lygio svyravimai </s>
+<s> amazonės maksimalus debitas </s>
+<s> amazonės minimalus debitas </s>
+<s> amazonės nuolydis </s>
+<s> amazonės nuotraukos </s>
+<s> amazonės nuotėkis </s>
+<s> amazonės plotas </s>
+<s> amazonės plotis </s>
+<s> amazonės potvyniai </s>
+<s> amazonės rėvos </s>
+<s> amazonės salos </s>
+<s> amazonės salpa </s>
+<s> amazonės santaka </s>
+<s> amazonės santakos </s>
+<s> amazonės slėniai </s>
+<s> amazonės slėnis </s>
+<s> amazonės sraunumas </s>
+<s> amazonės srovės </s>
+<s> amazonės teka per valstybes </s>
+<s> amazonės tiltai </s>
+<s> amazonės tėkmė </s>
+<s> amazonės uostai </s>
+<s> amazonės upė maitina </s>
+<s> amazonės upė užlieja pievas </s>
+<s> amazonės upėje neršia </s>
+<s> amazonės upėje veisiasi </s>
+<s> amazonės upės amžius </s>
+<s> amazonės upės apsemiamos teritorijos </s>
+<s> amazonės upės augalija </s>
+<s> amazonės upės aukštupys </s>
+<s> amazonės upės baseinas </s>
+<s> amazonės upės baseinas ribojasi </s>
+<s> amazonės upės baseino plotas </s>
+<s> amazonės upės bioįvairovė </s>
+<s> amazonės upės debitas </s>
+<s> amazonės upės dešinieji intakai </s>
+<s> amazonės upės dugnas </s>
+<s> amazonės upės giliausia vieta </s>
+<s> amazonės upės gražiausios vietos </s>
+<s> amazonės upės gylis </s>
+<s> amazonės upės gyvūnija </s>
+<s> amazonės upės hidroelektrinės </s>
+<s> amazonės upės ilgiausi intakai </s>
+<s> amazonės upės ilgiausieji intakai </s>
+<s> amazonės upės ilgis </s>
+<s> amazonės upės intakai </s>
+<s> amazonės upės ištekliai </s>
+<s> amazonės upės kairieji intakai </s>
+<s> amazonės upės krantai </s>
+<s> amazonės upės krantas </s>
+<s> amazonės upės ledas </s>
+<s> amazonės upės ledo danga </s>
+<s> amazonės upės ledo storis </s>
+<s> amazonės upės ledonešis </s>
+<s> amazonės upės ledų sangrūdos </s>
+<s> amazonės upės lygio svyravimai </s>
+<s> amazonės upės maksimalus debitas </s>
+<s> amazonės upės minimalus debitas </s>
+<s> amazonės upės nuolydis </s>
+<s> amazonės upės nuotraukos </s>
+<s> amazonės upės nuotėkis </s>
+<s> amazonės upės plotas </s>
+<s> amazonės upės plotis </s>
+<s> amazonės upės potvyniai </s>
+<s> amazonės upės rėvos </s>
+<s> amazonės upės salos </s>
+<s> amazonės upės salpa </s>
+<s> amazonės upės santaka </s>
+<s> amazonės upės santakos </s>
+<s> amazonės upės slėniai </s>
+<s> amazonės upės slėnis </s>
+<s> amazonės upės sraunumas </s>
+<s> amazonės upės srovės </s>
+<s> amazonės upės teka per valstybes </s>
+<s> amazonės upės tiltai </s>
+<s> amazonės upės tėkmė </s>
+<s> amazonės upės uostai </s>
+<s> amazonės upės vaga </s>
+<s> amazonės upės vagos plotis </s>
+<s> amazonės upės vaizdai </s>
+<s> amazonės upės vandens temperatūra </s>
+<s> amazonės upės vidutinis debitas </s>
+<s> amazonės upės vidutinė vandens temperatūra </s>
+<s> amazonės upės žemupys </s>
+<s> amazonės upės žiotys </s>
+<s> amazonės upės žuvys </s>
+<s> amazonės upę prasideda </s>
+<s> amazonės vaga </s>
+<s> amazonės vagos plotis </s>
+<s> amazonės vaizdai </s>
+<s> amazonės vandens temperatūra </s>
+<s> amazonės vidutinis debitas </s>
+<s> amazonės vidutinė vandens temperatūra </s>
+<s> amazonės žemupys </s>
+<s> amazonės žiotys </s>
+<s> amazonės žuvys </s>
+<s> amazonę prasideda </s>
+<s> amerikos amžius </s>
+<s> amerikos civilizacija </s>
+<s> amerikos ekonomika </s>
+<s> amerikos gyventojų skaičius </s>
+<s> amerikos istorija </s>
+<s> amerikos kalbos </s>
+<s> amerikos klimatas </s>
+<s> amerikos kultūra </s>
+<s> amerikos nuotraukos </s>
+<s> amerikos piramidės kultūros paveldas </s>
+<s> amerikos piramidės unesko </s>
+<s> amerikos piramidės žemėlapyje </s>
+<s> amerikos piramidžių amžius </s>
+<s> amerikos piramidžių aukštis </s>
+<s> amerikos piramidžių ilgis </s>
+<s> amerikos piramidžių istorija </s>
+<s> amerikos piramidžių nuotraukos </s>
+<s> amerikos piramidžių plotis </s>
+<s> amerikos piramidžių vaizdai </s>
+<s> amerikos piramidžių žemėlapis </s>
+<s> amerikos plotas </s>
+<s> amerikos tautos </s>
+<s> amerikos vaizdai </s>
+<s> amerikos žemyno amžius </s>
+<s> amerikos žemyno civilizacija </s>
+<s> amerikos žemyno ekonomika </s>
+<s> amerikos žemyno gyventojų skaičius </s>
+<s> amerikos žemyno istorija </s>
+<s> amerikos žemyno kalbos </s>
+<s> amerikos žemyno klimatas </s>
+<s> amerikos žemyno kultūra </s>
+<s> amerikos žemyno nuotraukos </s>
+<s> amerikos žemyno plotas </s>
+<s> amerikos žemyno tautos </s>
+<s> amerikos žemyno vaizdai </s>
+<s> anchelio krioklio nuotraukos </s>
+<s> anchelio krioklio vaizdai </s>
+<s> anchelio nuotraukos </s>
+<s> anchelio vaizdai </s>
+<s> andai žemėlapyje </s>
+<s> andų kalnai žemėlapyje </s>
+<s> andų kalnų nuotraukos </s>
+<s> andų kalnų vaizdai </s>
+<s> andų kalnų žemėlapis </s>
+<s> andų nuotraukos </s>
+<s> andų vaizdai </s>
+<s> andų žemėlapis </s>
+<s> angkoras kultūros paveldas </s>
+<s> angkoras unesko </s>
+<s> angkoras žemėlapyje </s>
+<s> angkoro amžius </s>
+<s> angkoro aukštis </s>
+<s> angkoro ilgis </s>
+<s> angkoro istorija </s>
+<s> angkoro nuotraukos </s>
+<s> angkoro plotis </s>
+<s> angkoro vaizdai </s>
+<s> angkoro žemėlapis </s>
+<s> anglija susikūrė </s>
+<s> anglija žemėlapyje </s>
+<s> anglijos bendrasis vidaus produktas </s>
+<s> anglijos didžiausi miestai </s>
+<s> anglijos ekonomika </s>
+<s> anglijos ežerai </s>
+<s> anglijos gamta </s>
+<s> anglijos gyventojų skaičius </s>
+<s> anglijos herbas </s>
+<s> anglijos istorija </s>
+<s> anglijos jūrų uostai </s>
+<s> anglijos kalba </s>
+<s> anglijos kalbos </s>
+<s> anglijos karai </s>
+<s> anglijos karaliai </s>
+<s> anglijos kraštovaizdis </s>
+<s> anglijos kultūra </s>
+<s> anglijos kultūros objektai </s>
+<s> anglijos kurortai </s>
+<s> anglijos nepriklausomybė </s>
+<s> anglijos nuotraukos </s>
+<s> anglijos oro uostai </s>
+<s> anglijos pinigai </s>
+<s> anglijos plotas </s>
+<s> anglijos politinė santvarka </s>
+<s> anglijos pragvenimo lygis </s>
+<s> anglijos pramonė </s>
+<s> anglijos sostinė </s>
+<s> anglijos tautos </s>
+<s> anglijos universitetai </s>
+<s> anglijos upės </s>
+<s> anglijos vaizdai </s>
+<s> anglijos valdovai </s>
+<s> anglijos vėliava </s>
+<s> anglijos žemėlapis </s>
+<s> antarktidos amžius </s>
+<s> antarktidos civilizacija </s>
+<s> antarktidos ekonomika </s>
+<s> antarktidos gyventojų skaičius </s>
+<s> antarktidos istorija </s>
+<s> antarktidos kalbos </s>
+<s> antarktidos klimatas </s>
+<s> antarktidos kultūra </s>
+<s> antarktidos nuotraukos </s>
+<s> antarktidos plotas </s>
+<s> antarktidos tautos </s>
+<s> antarktidos vaizdai </s>
+<s> antarktidos žemyno amžius </s>
+<s> antarktidos žemyno civilizacija </s>
+<s> antarktidos žemyno ekonomika </s>
+<s> antarktidos žemyno gyventojų skaičius </s>
+<s> antarktidos žemyno istorija </s>
+<s> antarktidos žemyno kalbos </s>
+<s> antarktidos žemyno klimatas </s>
+<s> antarktidos žemyno kultūra </s>
+<s> antarktidos žemyno nuotraukos </s>
+<s> antarktidos žemyno plotas </s>
+<s> antarktidos žemyno tautos </s>
+<s> antarktidos žemyno vaizdai </s>
+<s> arkties vandenynas skalauja </s>
+<s> arkties vandenyno amžius </s>
+<s> arkties vandenyno archipelagai </s>
+<s> arkties vandenyno audros </s>
+<s> arkties vandenyno augalija </s>
+<s> arkties vandenyno bangos </s>
+<s> arkties vandenyno bangų aukštis </s>
+<s> arkties vandenyno besiribojančios valstybės </s>
+<s> arkties vandenyno biomasė </s>
+<s> arkties vandenyno cunamis </s>
+<s> arkties vandenyno didžiausi uostai </s>
+<s> arkties vandenyno didžiausios salos </s>
+<s> arkties vandenyno dubuma </s>
+<s> arkties vandenyno dubumos </s>
+<s> arkties vandenyno dugnas </s>
+<s> arkties vandenyno dugno reljefas </s>
+<s> arkties vandenyno giliausia vieta </s>
+<s> arkties vandenyno giliausias taškas </s>
+<s> arkties vandenyno gylis </s>
+<s> arkties vandenyno gyvūnija </s>
+<s> arkties vandenyno ištekliai </s>
+<s> arkties vandenyno jūros </s>
+<s> arkties vandenyno kalnagūbriai </s>
+<s> arkties vandenyno klimatas </s>
+<s> arkties vandenyno ledas </s>
+<s> arkties vandenyno ledynai </s>
+<s> arkties vandenyno lygio svyravimai </s>
+<s> arkties vandenyno nuotraukos </s>
+<s> arkties vandenyno oro temperatūra </s>
+<s> arkties vandenyno pakrantės </s>
+<s> arkties vandenyno pakrančių valstybės </s>
+<s> arkties vandenyno plotas </s>
+<s> arkties vandenyno ribos </s>
+<s> arkties vandenyno salos </s>
+<s> arkties vandenyno salynai </s>
+<s> arkties vandenyno salų plotas </s>
+<s> arkties vandenyno srovės </s>
+<s> arkties vandenyno sąsiauriai </s>
+<s> arkties vandenyno tūris </s>
+<s> arkties vandenyno ugnikalniai </s>
+<s> arkties vandenyno uostai </s>
+<s> arkties vandenyno upių žiotys </s>
+<s> arkties vandenyno upės </s>
+<s> arkties vandenyno vaizdai </s>
+<s> arkties vandenyno vandens masė </s>
+<s> arkties vandenyno vandens spalva </s>
+<s> arkties vandenyno vandens sūrumas </s>
+<s> arkties vandenyno vandens temperatūra </s>
+<s> arkties vandenyno vidutinis gylis </s>
+<s> arkties vandenyno vidutinė oro temperatūra </s>
+<s> arkties vandenyno vidutinė vandens temperatūra </s>
+<s> arkties vandenyno vulkanai </s>
+<s> arkties vandenyno įdubos </s>
+<s> arkties vandenyno įlankos </s>
+<s> arkties vandenyno šelfai </s>
+<s> arkties vandenyno žemės drebėjimai </s>
+<s> arkties vandenyno žuvys </s>
+<s> arkties vandenynui priklausančios jūros </s>
+<s> arkties vandenyną supa valstybės </s>
+<s> atlanto vandenynas skalauja </s>
+<s> atlanto vandenyno amžius </s>
+<s> atlanto vandenyno archipelagai </s>
+<s> atlanto vandenyno audros </s>
+<s> atlanto vandenyno augalija </s>
+<s> atlanto vandenyno bangos </s>
+<s> atlanto vandenyno bangų aukštis </s>
+<s> atlanto vandenyno besiribojančios valstybės </s>
+<s> atlanto vandenyno biomasė </s>
+<s> atlanto vandenyno cunamis </s>
+<s> atlanto vandenyno didžiausi uostai </s>
+<s> atlanto vandenyno didžiausios salos </s>
+<s> atlanto vandenyno dubuma </s>
+<s> atlanto vandenyno dubumos </s>
+<s> atlanto vandenyno dugnas </s>
+<s> atlanto vandenyno dugno reljefas </s>
+<s> atlanto vandenyno giliausia vieta </s>
+<s> atlanto vandenyno giliausias taškas </s>
+<s> atlanto vandenyno gylis </s>
+<s> atlanto vandenyno gyvūnija </s>
+<s> atlanto vandenyno ištekliai </s>
+<s> atlanto vandenyno jūros </s>
+<s> atlanto vandenyno kalnagūbriai </s>
+<s> atlanto vandenyno klimatas </s>
+<s> atlanto vandenyno ledas </s>
+<s> atlanto vandenyno ledynai </s>
+<s> atlanto vandenyno lygio svyravimai </s>
+<s> atlanto vandenyno nuotraukos </s>
+<s> atlanto vandenyno oro temperatūra </s>
+<s> atlanto vandenyno pakrantės </s>
+<s> atlanto vandenyno pakrančių valstybės </s>
+<s> atlanto vandenyno plotas </s>
+<s> atlanto vandenyno ribos </s>
+<s> atlanto vandenyno salos </s>
+<s> atlanto vandenyno salynai </s>
+<s> atlanto vandenyno salų plotas </s>
+<s> atlanto vandenyno srovės </s>
+<s> atlanto vandenyno sąsiauriai </s>
+<s> atlanto vandenyno tūris </s>
+<s> atlanto vandenyno ugnikalniai </s>
+<s> atlanto vandenyno uostai </s>
+<s> atlanto vandenyno upių žiotys </s>
+<s> atlanto vandenyno upės </s>
+<s> atlanto vandenyno vaizdai </s>
+<s> atlanto vandenyno vandens masė </s>
+<s> atlanto vandenyno vandens spalva </s>
+<s> atlanto vandenyno vandens sūrumas </s>
+<s> atlanto vandenyno vandens temperatūra </s>
+<s> atlanto vandenyno vidutinis gylis </s>
+<s> atlanto vandenyno vidutinė oro temperatūra </s>
+<s> atlanto vandenyno vidutinė vandens temperatūra </s>
+<s> atlanto vandenyno vulkanai </s>
+<s> atlanto vandenyno įdubos </s>
+<s> atlanto vandenyno įlankos </s>
+<s> atlanto vandenyno šelfai </s>
+<s> atlanto vandenyno žemės drebėjimai </s>
+<s> atlanto vandenyno žuvys </s>
+<s> atlanto vandenynui priklausančios jūros </s>
+<s> atlanto vandenyną supa valstybės </s>
+<s> atonas žemėlapyje </s>
+<s> atono nuotraukos </s>
+<s> atono vaizdai </s>
+<s> atono žemėlapis </s>
+<s> atėnai įkurtas </s>
+<s> atėnai žemėlapyje </s>
+<s> atėnų gyventojų skaičius </s>
+<s> atėnų gyventojų tankis </s>
+<s> atėnų istorija </s>
+<s> atėnų lankytinos vietos </s>
+<s> atėnų muziejai </s>
+<s> atėnų nuotraukos </s>
+<s> atėnų plotas </s>
+<s> atėnų transportas </s>
+<s> atėnų vaizdai </s>
+<s> atėnų žemėlapis </s>
+<s> australijos amžius </s>
+<s> australijos civilizacija </s>
+<s> australijos ekonomika </s>
+<s> australijos gyventojų skaičius </s>
+<s> australijos istorija </s>
+<s> australijos kalbos </s>
+<s> australijos klimatas </s>
+<s> australijos kultūra </s>
+<s> australijos nuotraukos </s>
+<s> australijos plotas </s>
+<s> australijos tautos </s>
+<s> australijos vaizdai </s>
+<s> australijos žemyno amžius </s>
+<s> australijos žemyno civilizacija </s>
+<s> australijos žemyno ekonomika </s>
+<s> australijos žemyno gyventojų skaičius </s>
+<s> australijos žemyno istorija </s>
+<s> australijos žemyno kalbos </s>
+<s> australijos žemyno klimatas </s>
+<s> australijos žemyno kultūra </s>
+<s> australijos žemyno nuotraukos </s>
+<s> australijos žemyno plotas </s>
+<s> australijos žemyno tautos </s>
+<s> australijos žemyno vaizdai </s>
+<s> azijos amžius </s>
+<s> azijos civilizacija </s>
+<s> azijos ekonomika </s>
+<s> azijos gyventojų skaičius </s>
+<s> azijos istorija </s>
+<s> azijos kalbos </s>
+<s> azijos klimatas </s>
+<s> azijos kultūra </s>
+<s> azijos nuotraukos </s>
+<s> azijos plotas </s>
+<s> azijos tautos </s>
+<s> azijos vaizdai </s>
+<s> azijos žemyno amžius </s>
+<s> azijos žemyno civilizacija </s>
+<s> azijos žemyno ekonomika </s>
+<s> azijos žemyno gyventojų skaičius </s>
+<s> azijos žemyno istorija </s>
+<s> azijos žemyno kalbos </s>
+<s> azijos žemyno klimatas </s>
+<s> azijos žemyno kultūra </s>
+<s> azijos žemyno nuotraukos </s>
+<s> azijos žemyno plotas </s>
+<s> azijos žemyno tautos </s>
+<s> azijos žemyno vaizdai </s>
+<s> baikalas maitina </s>
+<s> baikale gėlas vanduo </s>
+<s> baikale sugaunamos žuvys </s>
+<s> baikale veisiasi </s>
+<s> baikalo altitudė </s>
+<s> baikalo amžius </s>
+<s> baikalo augalija </s>
+<s> baikalo aukštis </s>
+<s> baikalo baseino plotas </s>
+<s> baikalo bioįvairovė </s>
+<s> baikalo didžiausias gylis </s>
+<s> baikalo dugnas </s>
+<s> baikalo dugno reljefas </s>
+<s> baikalo ežeras maitina </s>
+<s> baikalo ežere gėlas vanduo </s>
+<s> baikalo ežere sugaunamos žuvys </s>
+<s> baikalo ežere veisiasi </s>
+<s> baikalo ežero altitudė </s>
+<s> baikalo ežero amžius </s>
+<s> baikalo ežero augalija </s>
+<s> baikalo ežero aukštis </s>
+<s> baikalo ežero baseino plotas </s>
+<s> baikalo ežero bioįvairovė </s>
+<s> baikalo ežero didžiausias gylis </s>
+<s> baikalo ežero dugnas </s>
+<s> baikalo ežero dugno reljefas </s>
+<s> baikalo ežero giliausia vieta </s>
+<s> baikalo ežero gilumas </s>
+<s> baikalo ežero gražiausios vietos </s>
+<s> baikalo ežero gylis </s>
+<s> baikalo ežero gyvūnija </s>
+<s> baikalo ežero ilgis </s>
+<s> baikalo ežero intakai </s>
+<s> baikalo ežero istorinė reikšmė </s>
+<s> baikalo ežero ištekliai </s>
+<s> baikalo ežero kilmė </s>
+<s> baikalo ežero krantai </s>
+<s> baikalo ežero krantas </s>
+<s> baikalo ežero kranto ilgis </s>
+<s> baikalo ežero ledas </s>
+<s> baikalo ežero ledo danga </s>
+<s> baikalo ežero ledo storis </s>
+<s> baikalo ežero lygio svyravimai </s>
+<s> baikalo ežero nuotraukos </s>
+<s> baikalo ežero plotas </s>
+<s> baikalo ežero plotis </s>
+<s> baikalo ežero salos </s>
+<s> baikalo ežero svarba </s>
+<s> baikalo ežero tūris </s>
+<s> baikalo ežero vaizdai </s>
+<s> baikalo ežero vandens temperatūra </s>
+<s> baikalo ežero vidutinis gylis </s>
+<s> baikalo ežero įlankos </s>
+<s> baikalo ežero žuvys </s>
+<s> baikalo giliausia vieta </s>
+<s> baikalo gilumas </s>
+<s> baikalo gražiausios vietos </s>
+<s> baikalo gylis </s>
+<s> baikalo gyvūnija </s>
+<s> baikalo ilgis </s>
+<s> baikalo intakai </s>
+<s> baikalo istorinė reikšmė </s>
+<s> baikalo ištekliai </s>
+<s> baikalo kilmė </s>
+<s> baikalo krantai </s>
+<s> baikalo krantas </s>
+<s> baikalo kranto ilgis </s>
+<s> baikalo ledas </s>
+<s> baikalo ledo danga </s>
+<s> baikalo ledo storis </s>
+<s> baikalo lygio svyravimai </s>
+<s> baikalo nuotraukos </s>
+<s> baikalo plotas </s>
+<s> baikalo plotis </s>
+<s> baikalo salos </s>
+<s> baikalo svarba </s>
+<s> baikalo tūris </s>
+<s> baikalo vaizdai </s>
+<s> baikalo vandens temperatūra </s>
+<s> baikalo vidutinis gylis </s>
+<s> baikalo įlankos </s>
+<s> baikalo žuvys </s>
+<s> baltijos jūra skalauja </s>
+<s> baltijos jūros amžius </s>
+<s> baltijos jūros archipelagai </s>
+<s> baltijos jūros audros </s>
+<s> baltijos jūros augalija </s>
+<s> baltijos jūros bangos </s>
+<s> baltijos jūros bangų aukštis </s>
+<s> baltijos jūros baseinas </s>
+<s> baltijos jūros besiribojančios valstybės </s>
+<s> baltijos jūros biomasė </s>
+<s> baltijos jūros cunamis </s>
+<s> baltijos jūros didžiausios salos </s>
+<s> baltijos jūros dugnas </s>
+<s> baltijos jūros dugno reljefas </s>
+<s> baltijos jūros giliausia vieta </s>
+<s> baltijos jūros giliausias taškas </s>
+<s> baltijos jūros gylis </s>
+<s> baltijos jūros gyvūnija </s>
+<s> baltijos jūros ilgis </s>
+<s> baltijos jūros intakai </s>
+<s> baltijos jūros ištekliai </s>
+<s> baltijos jūros klimatas </s>
+<s> baltijos jūros ledas </s>
+<s> baltijos jūros ledo storis </s>
+<s> baltijos jūros lygio svyravimai </s>
+<s> baltijos jūros nuotraukos </s>
+<s> baltijos jūros oro temperatūra </s>
+<s> baltijos jūros pakrantės </s>
+<s> baltijos jūros pakrantės ilgis </s>
+<s> baltijos jūros pakrančių valstybės </s>
+<s> baltijos jūros plotas </s>
+<s> baltijos jūros plotis </s>
+<s> baltijos jūros ribos </s>
+<s> baltijos jūros salos </s>
+<s> baltijos jūros salynai </s>
+<s> baltijos jūros salų plotas </s>
+<s> baltijos jūros srovės </s>
+<s> baltijos jūros sąsiauriai </s>
+<s> baltijos jūros tūris </s>
+<s> baltijos jūros uostai </s>
+<s> baltijos jūros upių žiotys </s>
+<s> baltijos jūros upės </s>
+<s> baltijos jūros vaizdai </s>
+<s> baltijos jūros vandens masė </s>
+<s> baltijos jūros vandens spalva </s>
+<s> baltijos jūros vandens sūrumas </s>
+<s> baltijos jūros vandens temperatūra </s>
+<s> baltijos jūros vidutinis gylis </s>
+<s> baltijos jūros vidutinė oro temperatūra </s>
+<s> baltijos jūros vidutinė vandens temperatūra </s>
+<s> baltijos jūros įlankos </s>
+<s> baltijos jūros žuvys </s>
+<s> baltijos jūrą supa valstybės </s>
+<s> bojoma krioklio nuotraukos </s>
+<s> bojoma krioklio vaizdai </s>
+<s> bojoma nuotraukos </s>
+<s> bojoma vaizdai </s>
+<s> brazilija susikūrė </s>
+<s> brazilija žemėlapyje </s>
+<s> brazilijos bendrasis vidaus produktas </s>
+<s> brazilijos didžiausi miestai </s>
+<s> brazilijos ekonomika </s>
+<s> brazilijos ežerai </s>
+<s> brazilijos gamta </s>
+<s> brazilijos gyventojų skaičius </s>
+<s> brazilijos herbas </s>
+<s> brazilijos istorija </s>
+<s> brazilijos jūrų uostai </s>
+<s> brazilijos kalba </s>
+<s> brazilijos kalbos </s>
+<s> brazilijos karai </s>
+<s> brazilijos karaliai </s>
+<s> brazilijos kraštovaizdis </s>
+<s> brazilijos kultūra </s>
+<s> brazilijos kultūros objektai </s>
+<s> brazilijos kurortai </s>
+<s> brazilijos nepriklausomybė </s>
+<s> brazilijos nuotraukos </s>
+<s> brazilijos oro uostai </s>
+<s> brazilijos pinigai </s>
+<s> brazilijos plotas </s>
+<s> brazilijos politinė santvarka </s>
+<s> brazilijos pragvenimo lygis </s>
+<s> brazilijos pramonė </s>
+<s> brazilijos sostinė </s>
+<s> brazilijos tautos </s>
+<s> brazilijos universitetai </s>
+<s> brazilijos upės </s>
+<s> brazilijos vaizdai </s>
+<s> brazilijos valdovai </s>
+<s> brazilijos vėliava </s>
+<s> brazilijos žemėlapis </s>
+<s> chefreno piramidė kultūros paveldas </s>
+<s> chefreno piramidė unesko </s>
+<s> chefreno piramidė žemėlapyje </s>
+<s> chefreno piramidės amžius </s>
+<s> chefreno piramidės aukštis </s>
+<s> chefreno piramidės ilgis </s>
+<s> chefreno piramidės istorija </s>
+<s> chefreno piramidės nuotraukos </s>
+<s> chefreno piramidės plotis </s>
+<s> chefreno piramidės vaizdai </s>
+<s> chefreno piramidės žemėlapis </s>
+<s> cheopso piramidė kultūros paveldas </s>
+<s> cheopso piramidė unesko </s>
+<s> cheopso piramidė žemėlapyje </s>
+<s> cheopso piramidės amžius </s>
+<s> cheopso piramidės aukštis </s>
+<s> cheopso piramidės ilgis </s>
+<s> cheopso piramidės istorija </s>
+<s> cheopso piramidės nuotraukos </s>
+<s> cheopso piramidės plotis </s>
+<s> cheopso piramidės vaizdai </s>
+<s> cheopso piramidės žemėlapis </s>
+<s> delio gyventojų skaičius </s>
+<s> delio gyventojų tankis </s>
+<s> delio istorija </s>
+<s> delio lankytinos vietos </s>
+<s> delio muziejai </s>
+<s> delio nuotraukos </s>
+<s> delio plotas </s>
+<s> delio transportas </s>
+<s> delio vaizdai </s>
+<s> delio žemėlapis </s>
+<s> delis įkurtas </s>
+<s> delis žemėlapyje </s>
+<s> didysis kanjonas žemėlapyje </s>
+<s> didžioji kinijos siena kultūros paveldas </s>
+<s> didžioji kinijos siena unesko </s>
+<s> didžioji kinijos siena žemėlapyje </s>
+<s> didžioji kinų siena kultūros paveldas </s>
+<s> didžioji kinų siena unesko </s>
+<s> didžioji kinų siena žemėlapyje </s>
+<s> didžiojo kanjono nuotraukos </s>
+<s> didžiojo kanjono vaizdai </s>
+<s> didžiojo kanjono žemėlapis </s>
+<s> didžiosios kinijos sienos amžius </s>
+<s> didžiosios kinijos sienos aukštis </s>
+<s> didžiosios kinijos sienos ilgis </s>
+<s> didžiosios kinijos sienos istorija </s>
+<s> didžiosios kinijos sienos nuotraukos </s>
+<s> didžiosios kinijos sienos plotis </s>
+<s> didžiosios kinijos sienos vaizdai </s>
+<s> didžiosios kinijos sienos žemėlapis </s>
+<s> didžiosios kinų sienos amžius </s>
+<s> didžiosios kinų sienos aukštis </s>
+<s> didžiosios kinų sienos ilgis </s>
+<s> didžiosios kinų sienos istorija </s>
+<s> didžiosios kinų sienos nuotraukos </s>
+<s> didžiosios kinų sienos plotis </s>
+<s> didžiosios kinų sienos vaizdai </s>
+<s> didžiosios kinų sienos žemėlapis </s>
+<s> dublinas įkurtas </s>
+<s> dublinas žemėlapyje </s>
+<s> dublino gyventojų skaičius </s>
+<s> dublino gyventojų tankis </s>
+<s> dublino istorija </s>
+<s> dublino lankytinos vietos </s>
+<s> dublino muziejai </s>
+<s> dublino nuotraukos </s>
+<s> dublino plotas </s>
+<s> dublino transportas </s>
+<s> dublino vaizdai </s>
+<s> dublino žemėlapis </s>
+<s> džemės didžioji mečetė kultūros paveldas </s>
+<s> džemės didžioji mečetė unesko </s>
+<s> džemės didžioji mečetė žemėlapyje </s>
+<s> džemės didžiosios mečetės amžius </s>
+<s> džemės didžiosios mečetės aukštis </s>
+<s> džemės didžiosios mečetės ilgis </s>
+<s> džemės didžiosios mečetės istorija </s>
+<s> džemės didžiosios mečetės nuotraukos </s>
+<s> džemės didžiosios mečetės plotis </s>
+<s> džemės didžiosios mečetės vaizdai </s>
+<s> džemės didžiosios mečetės žemėlapis </s>
+<s> egiptas susikūrė </s>
+<s> egiptas žemėlapyje </s>
+<s> egipto bendrasis vidaus produktas </s>
+<s> egipto didžiausi miestai </s>
+<s> egipto ekonomika </s>
+<s> egipto ežerai </s>
+<s> egipto gamta </s>
+<s> egipto gyventojų skaičius </s>
+<s> egipto herbas </s>
+<s> egipto istorija </s>
+<s> egipto jūrų uostai </s>
+<s> egipto kalba </s>
+<s> egipto kalbos </s>
+<s> egipto karai </s>
+<s> egipto karaliai </s>
+<s> egipto kraštovaizdis </s>
+<s> egipto kultūra </s>
+<s> egipto kultūros objektai </s>
+<s> egipto kurortai </s>
+<s> egipto nepriklausomybė </s>
+<s> egipto nuotraukos </s>
+<s> egipto oro uostai </s>
+<s> egipto pinigai </s>
+<s> egipto piramidės kultūros paveldas </s>
+<s> egipto piramidės unesko </s>
+<s> egipto piramidės žemėlapyje </s>
+<s> egipto piramidžių amžius </s>
+<s> egipto piramidžių aukštis </s>
+<s> egipto piramidžių ilgis </s>
+<s> egipto piramidžių istorija </s>
+<s> egipto piramidžių nuotraukos </s>
+<s> egipto piramidžių plotis </s>
+<s> egipto piramidžių vaizdai </s>
+<s> egipto piramidžių žemėlapis </s>
+<s> egipto plotas </s>
+<s> egipto politinė santvarka </s>
+<s> egipto pragvenimo lygis </s>
+<s> egipto pramonė </s>
+<s> egipto sostinė </s>
+<s> egipto tautos </s>
+<s> egipto universitetai </s>
+<s> egipto upės </s>
+<s> egipto vaizdai </s>
+<s> egipto valdovai </s>
+<s> egipto vėliava </s>
+<s> egipto žemėlapis </s>
+<s> ekvadoras susikūrė </s>
+<s> ekvadoras žemėlapyje </s>
+<s> ekvadoro bendrasis vidaus produktas </s>
+<s> ekvadoro didžiausi miestai </s>
+<s> ekvadoro ekonomika </s>
+<s> ekvadoro ežerai </s>
+<s> ekvadoro gamta </s>
+<s> ekvadoro gyventojų skaičius </s>
+<s> ekvadoro herbas </s>
+<s> ekvadoro istorija </s>
+<s> ekvadoro jūrų uostai </s>
+<s> ekvadoro kalba </s>
+<s> ekvadoro kalbos </s>
+<s> ekvadoro karai </s>
+<s> ekvadoro karaliai </s>
+<s> ekvadoro kraštovaizdis </s>
+<s> ekvadoro kultūra </s>
+<s> ekvadoro kultūros objektai </s>
+<s> ekvadoro kurortai </s>
+<s> ekvadoro nepriklausomybė </s>
+<s> ekvadoro nuotraukos </s>
+<s> ekvadoro oro uostai </s>
+<s> ekvadoro pinigai </s>
+<s> ekvadoro plotas </s>
+<s> ekvadoro politinė santvarka </s>
+<s> ekvadoro pragvenimo lygis </s>
+<s> ekvadoro pramonė </s>
+<s> ekvadoro sostinė </s>
+<s> ekvadoro tautos </s>
+<s> ekvadoro universitetai </s>
+<s> ekvadoro upės </s>
+<s> ekvadoro vaizdai </s>
+<s> ekvadoro valdovai </s>
+<s> ekvadoro vėliava </s>
+<s> ekvadoro žemėlapis </s>
+<s> eurazijos amžius </s>
+<s> eurazijos civilizacija </s>
+<s> eurazijos ekonomika </s>
+<s> eurazijos gyventojų skaičius </s>
+<s> eurazijos istorija </s>
+<s> eurazijos kalbos </s>
+<s> eurazijos klimatas </s>
+<s> eurazijos kultūra </s>
+<s> eurazijos nuotraukos </s>
+<s> eurazijos plotas </s>
+<s> eurazijos tautos </s>
+<s> eurazijos vaizdai </s>
+<s> eurazijos žemyno amžius </s>
+<s> eurazijos žemyno civilizacija </s>
+<s> eurazijos žemyno ekonomika </s>
+<s> eurazijos žemyno gyventojų skaičius </s>
+<s> eurazijos žemyno istorija </s>
+<s> eurazijos žemyno kalbos </s>
+<s> eurazijos žemyno klimatas </s>
+<s> eurazijos žemyno kultūra </s>
+<s> eurazijos žemyno nuotraukos </s>
+<s> eurazijos žemyno plotas </s>
+<s> eurazijos žemyno tautos </s>
+<s> eurazijos žemyno vaizdai </s>
+<s> europos amžius </s>
+<s> europos civilizacija </s>
+<s> europos ekonomika </s>
+<s> europos gyventojų skaičius </s>
+<s> europos istorija </s>
+<s> europos kalbos </s>
+<s> europos klimatas </s>
+<s> europos kultūra </s>
+<s> europos nuotraukos </s>
+<s> europos plotas </s>
+<s> europos tautos </s>
+<s> europos vaizdai </s>
+<s> europos žemyno amžius </s>
+<s> europos žemyno civilizacija </s>
+<s> europos žemyno ekonomika </s>
+<s> europos žemyno gyventojų skaičius </s>
+<s> europos žemyno istorija </s>
+<s> europos žemyno kalbos </s>
+<s> europos žemyno klimatas </s>
+<s> europos žemyno kultūra </s>
+<s> europos žemyno nuotraukos </s>
+<s> europos žemyno plotas </s>
+<s> europos žemyno tautos </s>
+<s> europos žemyno vaizdai </s>
+<s> faraonų kapavietės kultūros paveldas </s>
+<s> faraonų kapavietės unesko </s>
+<s> faraonų kapavietės žemėlapyje </s>
+<s> faraonų kapaviečių amžius </s>
+<s> faraonų kapaviečių aukštis </s>
+<s> faraonų kapaviečių ilgis </s>
+<s> faraonų kapaviečių istorija </s>
+<s> faraonų kapaviečių nuotraukos </s>
+<s> faraonų kapaviečių plotis </s>
+<s> faraonų kapaviečių vaizdai </s>
+<s> faraonų kapaviečių žemėlapis </s>
+<s> gangas maitina </s>
+<s> gangas užlieja pievas </s>
+<s> gange neršia </s>
+<s> gange veisiasi </s>
+<s> gango amžius </s>
+<s> gango apsemiamos teritorijos </s>
+<s> gango augalija </s>
+<s> gango aukštupys </s>
+<s> gango baseinas </s>
+<s> gango baseinas ribojasi </s>
+<s> gango baseino plotas </s>
+<s> gango bioįvairovė </s>
+<s> gango debitas </s>
+<s> gango dešinieji intakai </s>
+<s> gango dugnas </s>
+<s> gango giliausia vieta </s>
+<s> gango gražiausios vietos </s>
+<s> gango gylis </s>
+<s> gango gyvūnija </s>
+<s> gango hidroelektrinės </s>
+<s> gango ilgiausi intakai </s>
+<s> gango ilgiausieji intakai </s>
+<s> gango ilgis </s>
+<s> gango intakai </s>
+<s> gango ištekliai </s>
+<s> gango kairieji intakai </s>
+<s> gango krantai </s>
+<s> gango krantas </s>
+<s> gango ledas </s>
+<s> gango ledo danga </s>
+<s> gango ledo storis </s>
+<s> gango ledonešis </s>
+<s> gango ledų sangrūdos </s>
+<s> gango lygio svyravimai </s>
+<s> gango maksimalus debitas </s>
+<s> gango minimalus debitas </s>
+<s> gango nuolydis </s>
+<s> gango nuotraukos </s>
+<s> gango nuotėkis </s>
+<s> gango plotas </s>
+<s> gango plotis </s>
+<s> gango potvyniai </s>
+<s> gango rėvos </s>
+<s> gango salos </s>
+<s> gango salpa </s>
+<s> gango santaka </s>
+<s> gango santakos </s>
+<s> gango slėniai </s>
+<s> gango slėnis </s>
+<s> gango sraunumas </s>
+<s> gango srovės </s>
+<s> gango teka per valstybes </s>
+<s> gango tiltai </s>
+<s> gango tėkmė </s>
+<s> gango uostai </s>
+<s> gango upė maitina </s>
+<s> gango upė užlieja pievas </s>
+<s> gango upėje neršia </s>
+<s> gango upėje veisiasi </s>
+<s> gango upės amžius </s>
+<s> gango upės apsemiamos teritorijos </s>
+<s> gango upės augalija </s>
+<s> gango upės aukštupys </s>
+<s> gango upės baseinas </s>
+<s> gango upės baseinas ribojasi </s>
+<s> gango upės baseino plotas </s>
+<s> gango upės bioįvairovė </s>
+<s> gango upės debitas </s>
+<s> gango upės dešinieji intakai </s>
+<s> gango upės dugnas </s>
+<s> gango upės giliausia vieta </s>
+<s> gango upės gražiausios vietos </s>
+<s> gango upės gylis </s>
+<s> gango upės gyvūnija </s>
+<s> gango upės hidroelektrinės </s>
+<s> gango upės ilgiausi intakai </s>
+<s> gango upės ilgiausieji intakai </s>
+<s> gango upės ilgis </s>
+<s> gango upės intakai </s>
+<s> gango upės ištekliai </s>
+<s> gango upės kairieji intakai </s>
+<s> gango upės krantai </s>
+<s> gango upės krantas </s>
+<s> gango upės ledas </s>
+<s> gango upės ledo danga </s>
+<s> gango upės ledo storis </s>
+<s> gango upės ledonešis </s>
+<s> gango upės ledų sangrūdos </s>
+<s> gango upės lygio svyravimai </s>
+<s> gango upės maksimalus debitas </s>
+<s> gango upės minimalus debitas </s>
+<s> gango upės nuolydis </s>
+<s> gango upės nuotraukos </s>
+<s> gango upės nuotėkis </s>
+<s> gango upės plotas </s>
+<s> gango upės plotis </s>
+<s> gango upės potvyniai </s>
+<s> gango upės rėvos </s>
+<s> gango upės salos </s>
+<s> gango upės salpa </s>
+<s> gango upės santaka </s>
+<s> gango upės santakos </s>
+<s> gango upės slėniai </s>
+<s> gango upės slėnis </s>
+<s> gango upės sraunumas </s>
+<s> gango upės srovės </s>
+<s> gango upės teka per valstybes </s>
+<s> gango upės tiltai </s>
+<s> gango upės tėkmė </s>
+<s> gango upės uostai </s>
+<s> gango upės vaga </s>
+<s> gango upės vagos plotis </s>
+<s> gango upės vaizdai </s>
+<s> gango upės vandens temperatūra </s>
+<s> gango upės vidutinis debitas </s>
+<s> gango upės vidutinė vandens temperatūra </s>
+<s> gango upės žemupys </s>
+<s> gango upės žiotys </s>
+<s> gango upės žuvys </s>
+<s> gango upę prasideda </s>
+<s> gango vaga </s>
+<s> gango vagos plotis </s>
+<s> gango vaizdai </s>
+<s> gango vandens temperatūra </s>
+<s> gango vidutinis debitas </s>
+<s> gango vidutinė vandens temperatūra </s>
+<s> gango žemupys </s>
+<s> gango žiotys </s>
+<s> gango žuvys </s>
+<s> gangą prasideda </s>
+<s> gavarni krioklio nuotraukos </s>
+<s> gavarni krioklio vaizdai </s>
+<s> gavarni nuotraukos </s>
+<s> gavarni vaizdai </s>
+<s> goktos krioklio nuotraukos </s>
+<s> goktos krioklio vaizdai </s>
+<s> goktos nuotraukos </s>
+<s> goktos vaizdai </s>
+<s> graikija susikūrė </s>
+<s> graikija žemėlapyje </s>
+<s> graikijos bendrasis vidaus produktas </s>
+<s> graikijos didžiausi miestai </s>
+<s> graikijos ekonomika </s>
+<s> graikijos ežerai </s>
+<s> graikijos gamta </s>
+<s> graikijos gyventojų skaičius </s>
+<s> graikijos herbas </s>
+<s> graikijos istorija </s>
+<s> graikijos jūrų uostai </s>
+<s> graikijos kalba </s>
+<s> graikijos kalbos </s>
+<s> graikijos karai </s>
+<s> graikijos karaliai </s>
+<s> graikijos kraštovaizdis </s>
+<s> graikijos kultūra </s>
+<s> graikijos kultūros objektai </s>
+<s> graikijos kurortai </s>
+<s> graikijos nepriklausomybė </s>
+<s> graikijos nuotraukos </s>
+<s> graikijos oro uostai </s>
+<s> graikijos pinigai </s>
+<s> graikijos plotas </s>
+<s> graikijos politinė santvarka </s>
+<s> graikijos pragvenimo lygis </s>
+<s> graikijos pramonė </s>
+<s> graikijos sostinė </s>
+<s> graikijos tautos </s>
+<s> graikijos universitetai </s>
+<s> graikijos upės </s>
+<s> graikijos vaizdai </s>
+<s> graikijos valdovai </s>
+<s> graikijos vėliava </s>
+<s> graikijos žemėlapis </s>
+<s> himalajai žemėlapyje </s>
+<s> himalajų kalnai žemėlapyje </s>
+<s> himalajų kalnų nuotraukos </s>
+<s> himalajų kalnų vaizdai </s>
+<s> himalajų kalnų žemėlapis </s>
+<s> himalajų nuotraukos </s>
+<s> himalajų vaizdai </s>
+<s> himalajų žemėlapis </s>
+<s> igvasu krioklio nuotraukos </s>
+<s> igvasu krioklio vaizdai </s>
+<s> igvasu nuotraukos </s>
+<s> igvasu vaizdai </s>
+<s> indija susikūrė </s>
+<s> indija žemėlapyje </s>
+<s> indijos bendrasis vidaus produktas </s>
+<s> indijos didžiausi miestai </s>
+<s> indijos ekonomika </s>
+<s> indijos ežerai </s>
+<s> indijos gamta </s>
+<s> indijos gyventojų skaičius </s>
+<s> indijos herbas </s>
+<s> indijos istorija </s>
+<s> indijos jūrų uostai </s>
+<s> indijos kalba </s>
+<s> indijos kalbos </s>
+<s> indijos karai </s>
+<s> indijos karaliai </s>
+<s> indijos kraštovaizdis </s>
+<s> indijos kultūra </s>
+<s> indijos kultūros objektai </s>
+<s> indijos kurortai </s>
+<s> indijos nepriklausomybė </s>
+<s> indijos nuotraukos </s>
+<s> indijos oro uostai </s>
+<s> indijos pinigai </s>
+<s> indijos plotas </s>
+<s> indijos politinė santvarka </s>
+<s> indijos pragvenimo lygis </s>
+<s> indijos pramonė </s>
+<s> indijos sostinė </s>
+<s> indijos tautos </s>
+<s> indijos universitetai </s>
+<s> indijos upės </s>
+<s> indijos vaizdai </s>
+<s> indijos valdovai </s>
+<s> indijos vandenynas skalauja </s>
+<s> indijos vandenyno amžius </s>
+<s> indijos vandenyno archipelagai </s>
+<s> indijos vandenyno audros </s>
+<s> indijos vandenyno augalija </s>
+<s> indijos vandenyno bangos </s>
+<s> indijos vandenyno bangų aukštis </s>
+<s> indijos vandenyno besiribojančios valstybės </s>
+<s> indijos vandenyno biomasė </s>
+<s> indijos vandenyno cunamis </s>
+<s> indijos vandenyno didžiausi uostai </s>
+<s> indijos vandenyno didžiausios salos </s>
+<s> indijos vandenyno dubuma </s>
+<s> indijos vandenyno dubumos </s>
+<s> indijos vandenyno dugnas </s>
+<s> indijos vandenyno dugno reljefas </s>
+<s> indijos vandenyno giliausia vieta </s>
+<s> indijos vandenyno giliausias taškas </s>
+<s> indijos vandenyno gylis </s>
+<s> indijos vandenyno gyvūnija </s>
+<s> indijos vandenyno ištekliai </s>
+<s> indijos vandenyno jūros </s>
+<s> indijos vandenyno kalnagūbriai </s>
+<s> indijos vandenyno klimatas </s>
+<s> indijos vandenyno ledas </s>
+<s> indijos vandenyno ledynai </s>
+<s> indijos vandenyno lygio svyravimai </s>
+<s> indijos vandenyno nuotraukos </s>
+<s> indijos vandenyno oro temperatūra </s>
+<s> indijos vandenyno pakrantės </s>
+<s> indijos vandenyno pakrančių valstybės </s>
+<s> indijos vandenyno plotas </s>
+<s> indijos vandenyno ribos </s>
+<s> indijos vandenyno salos </s>
+<s> indijos vandenyno salynai </s>
+<s> indijos vandenyno salų plotas </s>
+<s> indijos vandenyno srovės </s>
+<s> indijos vandenyno sąsiauriai </s>
+<s> indijos vandenyno tūris </s>
+<s> indijos vandenyno ugnikalniai </s>
+<s> indijos vandenyno uostai </s>
+<s> indijos vandenyno upių žiotys </s>
+<s> indijos vandenyno upės </s>
+<s> indijos vandenyno vaizdai </s>
+<s> indijos vandenyno vandens masė </s>
+<s> indijos vandenyno vandens spalva </s>
+<s> indijos vandenyno vandens sūrumas </s>
+<s> indijos vandenyno vandens temperatūra </s>
+<s> indijos vandenyno vidutinis gylis </s>
+<s> indijos vandenyno vidutinė oro temperatūra </s>
+<s> indijos vandenyno vidutinė vandens temperatūra </s>
+<s> indijos vandenyno vulkanai </s>
+<s> indijos vandenyno įdubos </s>
+<s> indijos vandenyno įlankos </s>
+<s> indijos vandenyno šelfai </s>
+<s> indijos vandenyno žemės drebėjimai </s>
+<s> indijos vandenyno žuvys </s>
+<s> indijos vandenynui priklausančios jūros </s>
+<s> indijos vandenyną supa valstybės </s>
+<s> indijos vėliava </s>
+<s> indijos žemėlapis </s>
+<s> italija susikūrė </s>
+<s> italija žemėlapyje </s>
+<s> italijos bendrasis vidaus produktas </s>
+<s> italijos didžiausi miestai </s>
+<s> italijos ekonomika </s>
+<s> italijos ežerai </s>
+<s> italijos gamta </s>
+<s> italijos gyventojų skaičius </s>
+<s> italijos herbas </s>
+<s> italijos istorija </s>
+<s> italijos jūrų uostai </s>
+<s> italijos kalba </s>
+<s> italijos kalbos </s>
+<s> italijos karai </s>
+<s> italijos karaliai </s>
+<s> italijos kraštovaizdis </s>
+<s> italijos kultūra </s>
+<s> italijos kultūros objektai </s>
+<s> italijos kurortai </s>
+<s> italijos nepriklausomybė </s>
+<s> italijos nuotraukos </s>
+<s> italijos oro uostai </s>
+<s> italijos pinigai </s>
+<s> italijos plotas </s>
+<s> italijos politinė santvarka </s>
+<s> italijos pragvenimo lygis </s>
+<s> italijos pramonė </s>
+<s> italijos sostinė </s>
+<s> italijos tautos </s>
+<s> italijos universitetai </s>
+<s> italijos upės </s>
+<s> italijos vaizdai </s>
+<s> italijos valdovai </s>
+<s> italijos vėliava </s>
+<s> italijos žemėlapis </s>
+<s> jav bendrasis vidaus produktas </s>
+<s> jav didžiausi miestai </s>
+<s> jav ekonomika </s>
+<s> jav ežerai </s>
+<s> jav gamta </s>
+<s> jav gyventojų skaičius </s>
+<s> jav herbas </s>
+<s> jav istorija </s>
+<s> jav jūrų uostai </s>
+<s> jav kalba </s>
+<s> jav kalbos </s>
+<s> jav karai </s>
+<s> jav karaliai </s>
+<s> jav kraštovaizdis </s>
+<s> jav kultūra </s>
+<s> jav kultūros objektai </s>
+<s> jav kurortai </s>
+<s> jav nepriklausomybė </s>
+<s> jav nuotraukos </s>
+<s> jav oro uostai </s>
+<s> jav pinigai </s>
+<s> jav plotas </s>
+<s> jav politinė santvarka </s>
+<s> jav pragvenimo lygis </s>
+<s> jav pramonė </s>
+<s> jav sostinė </s>
+<s> jav susikūrė </s>
+<s> jav tautos </s>
+<s> jav universitetai </s>
+<s> jav upės </s>
+<s> jav vaizdai </s>
+<s> jav valdovai </s>
+<s> jav vėliava </s>
+<s> jav žemėlapis </s>
+<s> jav žemėlapyje </s>
+<s> japonija susikūrė </s>
+<s> japonija žemėlapyje </s>
+<s> japonijos bendrasis vidaus produktas </s>
+<s> japonijos didžiausi miestai </s>
+<s> japonijos ekonomika </s>
+<s> japonijos ežerai </s>
+<s> japonijos gamta </s>
+<s> japonijos gyventojų skaičius </s>
+<s> japonijos herbas </s>
+<s> japonijos istorija </s>
+<s> japonijos jūrų uostai </s>
+<s> japonijos kalba </s>
+<s> japonijos kalbos </s>
+<s> japonijos karai </s>
+<s> japonijos karaliai </s>
+<s> japonijos kraštovaizdis </s>
+<s> japonijos kultūra </s>
+<s> japonijos kultūros objektai </s>
+<s> japonijos kurortai </s>
+<s> japonijos nepriklausomybė </s>
+<s> japonijos nuotraukos </s>
+<s> japonijos oro uostai </s>
+<s> japonijos pinigai </s>
+<s> japonijos plotas </s>
+<s> japonijos politinė santvarka </s>
+<s> japonijos pragvenimo lygis </s>
+<s> japonijos pramonė </s>
+<s> japonijos sostinė </s>
+<s> japonijos tautos </s>
+<s> japonijos universitetai </s>
+<s> japonijos upės </s>
+<s> japonijos vaizdai </s>
+<s> japonijos valdovai </s>
+<s> japonijos vėliava </s>
+<s> japonijos žemėlapis </s>
+<s> jogo krioklio nuotraukos </s>
+<s> jogo krioklio vaizdai </s>
+<s> jogo nuotraukos </s>
+<s> jogo vaizdai </s>
+<s> jordanija susikūrė </s>
+<s> jordanija žemėlapyje </s>
+<s> jordanijos bendrasis vidaus produktas </s>
+<s> jordanijos didžiausi miestai </s>
+<s> jordanijos ekonomika </s>
+<s> jordanijos ežerai </s>
+<s> jordanijos gamta </s>
+<s> jordanijos gyventojų skaičius </s>
+<s> jordanijos herbas </s>
+<s> jordanijos istorija </s>
+<s> jordanijos jūrų uostai </s>
+<s> jordanijos kalba </s>
+<s> jordanijos kalbos </s>
+<s> jordanijos karai </s>
+<s> jordanijos karaliai </s>
+<s> jordanijos kraštovaizdis </s>
+<s> jordanijos kultūra </s>
+<s> jordanijos kultūros objektai </s>
+<s> jordanijos kurortai </s>
+<s> jordanijos nepriklausomybė </s>
+<s> jordanijos nuotraukos </s>
+<s> jordanijos oro uostai </s>
+<s> jordanijos pinigai </s>
+<s> jordanijos plotas </s>
+<s> jordanijos politinė santvarka </s>
+<s> jordanijos pragvenimo lygis </s>
+<s> jordanijos pramonė </s>
+<s> jordanijos sostinė </s>
+<s> jordanijos tautos </s>
+<s> jordanijos universitetai </s>
+<s> jordanijos upės </s>
+<s> jordanijos vaizdai </s>
+<s> jordanijos valdovai </s>
+<s> jordanijos vėliava </s>
+<s> jordanijos žemėlapis </s>
+<s> josemičio krioklio nuotraukos </s>
+<s> josemičio krioklio vaizdai </s>
+<s> josemičio nuotraukos </s>
+<s> josemičio vaizdai </s>
+<s> kairas susikūrė </s>
+<s> kairas žemėlapyje </s>
+<s> kairo bendrasis vidaus produktas </s>
+<s> kairo didžiausi miestai </s>
+<s> kairo ekonomika </s>
+<s> kairo ežerai </s>
+<s> kairo gamta </s>
+<s> kairo gyventojų skaičius </s>
+<s> kairo herbas </s>
+<s> kairo istorija </s>
+<s> kairo jūrų uostai </s>
+<s> kairo kalba </s>
+<s> kairo kalbos </s>
+<s> kairo karai </s>
+<s> kairo karaliai </s>
+<s> kairo kraštovaizdis </s>
+<s> kairo kultūra </s>
+<s> kairo kultūros objektai </s>
+<s> kairo kurortai </s>
+<s> kairo nepriklausomybė </s>
+<s> kairo nuotraukos </s>
+<s> kairo oro uostai </s>
+<s> kairo pinigai </s>
+<s> kairo plotas </s>
+<s> kairo politinė santvarka </s>
+<s> kairo pragvenimo lygis </s>
+<s> kairo pramonė </s>
+<s> kairo sostinė </s>
+<s> kairo tautos </s>
+<s> kairo universitetai </s>
+<s> kairo upės </s>
+<s> kairo vaizdai </s>
+<s> kairo valdovai </s>
+<s> kairo vėliava </s>
+<s> kairo žemėlapis </s>
+<s> kambodža susikūrė </s>
+<s> kambodža žemėlapyje </s>
+<s> kambodžos bendrasis vidaus produktas </s>
+<s> kambodžos didžiausi miestai </s>
+<s> kambodžos ekonomika </s>
+<s> kambodžos ežerai </s>
+<s> kambodžos gamta </s>
+<s> kambodžos gyventojų skaičius </s>
+<s> kambodžos herbas </s>
+<s> kambodžos istorija </s>
+<s> kambodžos jūrų uostai </s>
+<s> kambodžos kalba </s>
+<s> kambodžos kalbos </s>
+<s> kambodžos karai </s>
+<s> kambodžos karaliai </s>
+<s> kambodžos kraštovaizdis </s>
+<s> kambodžos kultūra </s>
+<s> kambodžos kultūros objektai </s>
+<s> kambodžos kurortai </s>
+<s> kambodžos nepriklausomybė </s>
+<s> kambodžos nuotraukos </s>
+<s> kambodžos oro uostai </s>
+<s> kambodžos pinigai </s>
+<s> kambodžos plotas </s>
+<s> kambodžos politinė santvarka </s>
+<s> kambodžos pragvenimo lygis </s>
+<s> kambodžos pramonė </s>
+<s> kambodžos sostinė </s>
+<s> kambodžos tautos </s>
+<s> kambodžos universitetai </s>
+<s> kambodžos upės </s>
+<s> kambodžos vaizdai </s>
+<s> kambodžos valdovai </s>
+<s> kambodžos vėliava </s>
+<s> kambodžos žemėlapis </s>
+<s> karibų jūra skalauja </s>
+<s> karibų jūros amžius </s>
+<s> karibų jūros archipelagai </s>
+<s> karibų jūros audros </s>
+<s> karibų jūros augalija </s>
+<s> karibų jūros bangos </s>
+<s> karibų jūros bangų aukštis </s>
+<s> karibų jūros baseinas </s>
+<s> karibų jūros besiribojančios valstybės </s>
+<s> karibų jūros biomasė </s>
+<s> karibų jūros cunamis </s>
+<s> karibų jūros didžiausios salos </s>
+<s> karibų jūros dugnas </s>
+<s> karibų jūros dugno reljefas </s>
+<s> karibų jūros giliausia vieta </s>
+<s> karibų jūros giliausias taškas </s>
+<s> karibų jūros gylis </s>
+<s> karibų jūros gyvūnija </s>
+<s> karibų jūros ilgis </s>
+<s> karibų jūros intakai </s>
+<s> karibų jūros ištekliai </s>
+<s> karibų jūros klimatas </s>
+<s> karibų jūros ledas </s>
+<s> karibų jūros ledo storis </s>
+<s> karibų jūros lygio svyravimai </s>
+<s> karibų jūros nuotraukos </s>
+<s> karibų jūros oro temperatūra </s>
+<s> karibų jūros pakrantės </s>
+<s> karibų jūros pakrantės ilgis </s>
+<s> karibų jūros pakrančių valstybės </s>
+<s> karibų jūros plotas </s>
+<s> karibų jūros plotis </s>
+<s> karibų jūros ribos </s>
+<s> karibų jūros salos </s>
+<s> karibų jūros salynai </s>
+<s> karibų jūros salų plotas </s>
+<s> karibų jūros srovės </s>
+<s> karibų jūros sąsiauriai </s>
+<s> karibų jūros tūris </s>
+<s> karibų jūros uostai </s>
+<s> karibų jūros upių žiotys </s>
+<s> karibų jūros upės </s>
+<s> karibų jūros vaizdai </s>
+<s> karibų jūros vandens masė </s>
+<s> karibų jūros vandens spalva </s>
+<s> karibų jūros vandens sūrumas </s>
+<s> karibų jūros vandens temperatūra </s>
+<s> karibų jūros vidutinis gylis </s>
+<s> karibų jūros vidutinė oro temperatūra </s>
+<s> karibų jūros vidutinė vandens temperatūra </s>
+<s> karibų jūros įlankos </s>
+<s> karibų jūros žuvys </s>
+<s> karibų jūrą supa valstybės </s>
+<s> kernavė įkurtas </s>
+<s> kernavė žemėlapyje </s>
+<s> kernavės gyventojų skaičius </s>
+<s> kernavės gyventojų tankis </s>
+<s> kernavės istorija </s>
+<s> kernavės lankytinos vietos </s>
+<s> kernavės muziejai </s>
+<s> kernavės nuotraukos </s>
+<s> kernavės plotas </s>
+<s> kernavės transportas </s>
+<s> kernavės vaizdai </s>
+<s> kernavės žemėlapis </s>
+<s> kilimandžaras žemėlapyje </s>
+<s> kilimandžaro nuotraukos </s>
+<s> kilimandžaro vaizdai </s>
+<s> kilimandžaro žemėlapis </s>
+<s> kinija susikūrė </s>
+<s> kinija žemėlapyje </s>
+<s> kinijos bendrasis vidaus produktas </s>
+<s> kinijos didžiausi miestai </s>
+<s> kinijos ekonomika </s>
+<s> kinijos ežerai </s>
+<s> kinijos gamta </s>
+<s> kinijos gyventojų skaičius </s>
+<s> kinijos herbas </s>
+<s> kinijos istorija </s>
+<s> kinijos jūrų uostai </s>
+<s> kinijos kalba </s>
+<s> kinijos kalbos </s>
+<s> kinijos karai </s>
+<s> kinijos karaliai </s>
+<s> kinijos kraštovaizdis </s>
+<s> kinijos kultūra </s>
+<s> kinijos kultūros objektai </s>
+<s> kinijos kurortai </s>
+<s> kinijos nepriklausomybė </s>
+<s> kinijos nuotraukos </s>
+<s> kinijos oro uostai </s>
+<s> kinijos pinigai </s>
+<s> kinijos plotas </s>
+<s> kinijos politinė santvarka </s>
+<s> kinijos pragvenimo lygis </s>
+<s> kinijos pramonė </s>
+<s> kinijos sostinė </s>
+<s> kinijos tautos </s>
+<s> kinijos universitetai </s>
+<s> kinijos upės </s>
+<s> kinijos vaizdai </s>
+<s> kinijos valdovai </s>
+<s> kinijos vėliava </s>
+<s> kinijos žemėlapis </s>
+<s> kinų siena kultūros paveldas </s>
+<s> kinų siena unesko </s>
+<s> kinų siena žemėlapyje </s>
+<s> kinų sienos amžius </s>
+<s> kinų sienos aukštis </s>
+<s> kinų sienos ilgis </s>
+<s> kinų sienos istorija </s>
+<s> kinų sienos nuotraukos </s>
+<s> kinų sienos plotis </s>
+<s> kinų sienos vaizdai </s>
+<s> kinų sienos žemėlapis </s>
+<s> kongas susikūrė </s>
+<s> kongas žemėlapyje </s>
+<s> kongo bendrasis vidaus produktas </s>
+<s> kongo didžiausi miestai </s>
+<s> kongo ekonomika </s>
+<s> kongo ežerai </s>
+<s> kongo gamta </s>
+<s> kongo gyventojų skaičius </s>
+<s> kongo herbas </s>
+<s> kongo istorija </s>
+<s> kongo jūrų uostai </s>
+<s> kongo kalba </s>
+<s> kongo kalbos </s>
+<s> kongo karai </s>
+<s> kongo karaliai </s>
+<s> kongo kraštovaizdis </s>
+<s> kongo kultūra </s>
+<s> kongo kultūros objektai </s>
+<s> kongo kurortai </s>
+<s> kongo nepriklausomybė </s>
+<s> kongo nuotraukos </s>
+<s> kongo oro uostai </s>
+<s> kongo pinigai </s>
+<s> kongo plotas </s>
+<s> kongo politinė santvarka </s>
+<s> kongo pragvenimo lygis </s>
+<s> kongo pramonė </s>
+<s> kongo sostinė </s>
+<s> kongo tautos </s>
+<s> kongo universitetai </s>
+<s> kongo upės </s>
+<s> kongo vaizdai </s>
+<s> kongo valdovai </s>
+<s> kongo vėliava </s>
+<s> kongo žemėlapis </s>
+<s> korkovadas žemėlapyje </s>
+<s> korkovado nuotraukos </s>
+<s> korkovado vaizdai </s>
+<s> korkovado žemėlapis </s>
+<s> lietuva susikūrė </s>
+<s> lietuva žemėlapyje </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos didžiausi miestai </s>
+<s> lietuvos ekonomika </s>
+<s> lietuvos ežerai </s>
+<s> lietuvos gamta </s>
+<s> lietuvos gyventojų skaičius </s>
+<s> lietuvos herbas </s>
+<s> lietuvos istorija </s>
+<s> lietuvos jūrų uostai </s>
+<s> lietuvos kalba </s>
+<s> lietuvos kalbos </s>
+<s> lietuvos karai </s>
+<s> lietuvos karaliai </s>
+<s> lietuvos kraštovaizdis </s>
+<s> lietuvos kultūra </s>
+<s> lietuvos kultūros objektai </s>
+<s> lietuvos kurortai </s>
+<s> lietuvos nepriklausomybė </s>
+<s> lietuvos nuotraukos </s>
+<s> lietuvos oro uostai </s>
+<s> lietuvos pinigai </s>
+<s> lietuvos plotas </s>
+<s> lietuvos politinė santvarka </s>
+<s> lietuvos pragvenimo lygis </s>
+<s> lietuvos pramonė </s>
+<s> lietuvos sostinė </s>
+<s> lietuvos tautos </s>
+<s> lietuvos universitetai </s>
+<s> lietuvos upės </s>
+<s> lietuvos vaizdai </s>
+<s> lietuvos valdovai </s>
+<s> lietuvos vėliava </s>
+<s> lietuvos žemėlapis </s>
+<s> lima įkurtas </s>
+<s> lima žemėlapyje </s>
+<s> limos gyventojų skaičius </s>
+<s> limos gyventojų tankis </s>
+<s> limos istorija </s>
+<s> limos lankytinos vietos </s>
+<s> limos muziejai </s>
+<s> limos nuotraukos </s>
+<s> limos plotas </s>
+<s> limos transportas </s>
+<s> limos vaizdai </s>
+<s> limos žemėlapis </s>
+<s> londonas įkurtas </s>
+<s> londonas žemėlapyje </s>
+<s> londono gyventojų skaičius </s>
+<s> londono gyventojų tankis </s>
+<s> londono istorija </s>
+<s> londono lankytinos vietos </s>
+<s> londono muziejai </s>
+<s> londono nuotraukos </s>
+<s> londono plotas </s>
+<s> londono transportas </s>
+<s> londono vaizdai </s>
+<s> londono žemėlapis </s>
+<s> malio bendrasis vidaus produktas </s>
+<s> malio didžiausi miestai </s>
+<s> malio ekonomika </s>
+<s> malio ežerai </s>
+<s> malio gamta </s>
+<s> malio gyventojų skaičius </s>
+<s> malio herbas </s>
+<s> malio istorija </s>
+<s> malio jūrų uostai </s>
+<s> malio kalba </s>
+<s> malio kalbos </s>
+<s> malio karai </s>
+<s> malio karaliai </s>
+<s> malio kraštovaizdis </s>
+<s> malio kultūra </s>
+<s> malio kultūros objektai </s>
+<s> malio kurortai </s>
+<s> malio nepriklausomybė </s>
+<s> malio nuotraukos </s>
+<s> malio oro uostai </s>
+<s> malio pinigai </s>
+<s> malio plotas </s>
+<s> malio politinė santvarka </s>
+<s> malio pragvenimo lygis </s>
+<s> malio pramonė </s>
+<s> malio sostinė </s>
+<s> malio tautos </s>
+<s> malio universitetai </s>
+<s> malio upės </s>
+<s> malio vaizdai </s>
+<s> malio valdovai </s>
+<s> malio vėliava </s>
+<s> malio žemėlapis </s>
+<s> malis susikūrė </s>
+<s> malis žemėlapyje </s>
+<s> maskva įkurtas </s>
+<s> maskva žemėlapyje </s>
+<s> maskvos gyventojų skaičius </s>
+<s> maskvos gyventojų tankis </s>
+<s> maskvos istorija </s>
+<s> maskvos lankytinos vietos </s>
+<s> maskvos muziejai </s>
+<s> maskvos nuotraukos </s>
+<s> maskvos plotas </s>
+<s> maskvos transportas </s>
+<s> maskvos vaizdai </s>
+<s> maskvos žemėlapis </s>
+<s> mechikas įkurtas </s>
+<s> mechikas žemėlapyje </s>
+<s> mechiko gyventojų skaičius </s>
+<s> mechiko gyventojų tankis </s>
+<s> mechiko istorija </s>
+<s> mechiko lankytinos vietos </s>
+<s> mechiko muziejai </s>
+<s> mechiko nuotraukos </s>
+<s> mechiko plotas </s>
+<s> mechiko transportas </s>
+<s> mechiko vaizdai </s>
+<s> mechiko žemėlapis </s>
+<s> meksika susikūrė </s>
+<s> meksika žemėlapyje </s>
+<s> meksikos bendrasis vidaus produktas </s>
+<s> meksikos didžiausi miestai </s>
+<s> meksikos ekonomika </s>
+<s> meksikos ežerai </s>
+<s> meksikos gamta </s>
+<s> meksikos gyventojų skaičius </s>
+<s> meksikos herbas </s>
+<s> meksikos istorija </s>
+<s> meksikos jūrų uostai </s>
+<s> meksikos kalba </s>
+<s> meksikos kalbos </s>
+<s> meksikos karai </s>
+<s> meksikos karaliai </s>
+<s> meksikos kraštovaizdis </s>
+<s> meksikos kultūra </s>
+<s> meksikos kultūros objektai </s>
+<s> meksikos kurortai </s>
+<s> meksikos nepriklausomybė </s>
+<s> meksikos nuotraukos </s>
+<s> meksikos oro uostai </s>
+<s> meksikos pinigai </s>
+<s> meksikos plotas </s>
+<s> meksikos politinė santvarka </s>
+<s> meksikos pragvenimo lygis </s>
+<s> meksikos pramonė </s>
+<s> meksikos sostinė </s>
+<s> meksikos tautos </s>
+<s> meksikos universitetai </s>
+<s> meksikos upės </s>
+<s> meksikos vaizdai </s>
+<s> meksikos valdovai </s>
+<s> meksikos vėliava </s>
+<s> meksikos žemėlapis </s>
+<s> meteoros vienuolynai kultūros paveldas </s>
+<s> meteoros vienuolynai unesko </s>
+<s> meteoros vienuolynai žemėlapyje </s>
+<s> meteoros vienuolynų amžius </s>
+<s> meteoros vienuolynų aukštis </s>
+<s> meteoros vienuolynų ilgis </s>
+<s> meteoros vienuolynų istorija </s>
+<s> meteoros vienuolynų nuotraukos </s>
+<s> meteoros vienuolynų plotis </s>
+<s> meteoros vienuolynų vaizdai </s>
+<s> meteoros vienuolynų žemėlapis </s>
+<s> mikerino piramidė kultūros paveldas </s>
+<s> mikerino piramidė unesko </s>
+<s> mikerino piramidė žemėlapyje </s>
+<s> mikerino piramidės amžius </s>
+<s> mikerino piramidės aukštis </s>
+<s> mikerino piramidės ilgis </s>
+<s> mikerino piramidės istorija </s>
+<s> mikerino piramidės nuotraukos </s>
+<s> mikerino piramidės plotis </s>
+<s> mikerino piramidės vaizdai </s>
+<s> mikerino piramidės žemėlapis </s>
+<s> niagara maitina </s>
+<s> niagara užlieja pievas </s>
+<s> niagaroje neršia </s>
+<s> niagaroje veisiasi </s>
+<s> niagaros amžius </s>
+<s> niagaros apsemiamos teritorijos </s>
+<s> niagaros augalija </s>
+<s> niagaros aukštupys </s>
+<s> niagaros baseinas </s>
+<s> niagaros baseinas ribojasi </s>
+<s> niagaros baseino plotas </s>
+<s> niagaros bioįvairovė </s>
+<s> niagaros debitas </s>
+<s> niagaros dešinieji intakai </s>
+<s> niagaros dugnas </s>
+<s> niagaros giliausia vieta </s>
+<s> niagaros gražiausios vietos </s>
+<s> niagaros gylis </s>
+<s> niagaros gyvūnija </s>
+<s> niagaros hidroelektrinės </s>
+<s> niagaros ilgiausi intakai </s>
+<s> niagaros ilgiausieji intakai </s>
+<s> niagaros ilgis </s>
+<s> niagaros intakai </s>
+<s> niagaros ištekliai </s>
+<s> niagaros kairieji intakai </s>
+<s> niagaros krantai </s>
+<s> niagaros krantas </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros krioklio vaizdai </s>
+<s> niagaros ledas </s>
+<s> niagaros ledo danga </s>
+<s> niagaros ledo storis </s>
+<s> niagaros ledonešis </s>
+<s> niagaros ledų sangrūdos </s>
+<s> niagaros lygio svyravimai </s>
+<s> niagaros maksimalus debitas </s>
+<s> niagaros minimalus debitas </s>
+<s> niagaros nuolydis </s>
+<s> niagaros nuotraukos </s>
+<s> niagaros nuotraukos </s>
+<s> niagaros nuotėkis </s>
+<s> niagaros plotas </s>
+<s> niagaros plotis </s>
+<s> niagaros potvyniai </s>
+<s> niagaros rėvos </s>
+<s> niagaros salos </s>
+<s> niagaros salpa </s>
+<s> niagaros santaka </s>
+<s> niagaros santakos </s>
+<s> niagaros slėniai </s>
+<s> niagaros slėnis </s>
+<s> niagaros sraunumas </s>
+<s> niagaros srovės </s>
+<s> niagaros teka per valstybes </s>
+<s> niagaros tiltai </s>
+<s> niagaros tėkmė </s>
+<s> niagaros uostai </s>
+<s> niagaros upė maitina </s>
+<s> niagaros upė užlieja pievas </s>
+<s> niagaros upėje neršia </s>
+<s> niagaros upėje veisiasi </s>
+<s> niagaros upės amžius </s>
+<s> niagaros upės apsemiamos teritorijos </s>
+<s> niagaros upės augalija </s>
+<s> niagaros upės aukštupys </s>
+<s> niagaros upės baseinas </s>
+<s> niagaros upės baseinas ribojasi </s>
+<s> niagaros upės baseino plotas </s>
+<s> niagaros upės bioįvairovė </s>
+<s> niagaros upės debitas </s>
+<s> niagaros upės dešinieji intakai </s>
+<s> niagaros upės dugnas </s>
+<s> niagaros upės giliausia vieta </s>
+<s> niagaros upės gražiausios vietos </s>
+<s> niagaros upės gylis </s>
+<s> niagaros upės gyvūnija </s>
+<s> niagaros upės hidroelektrinės </s>
+<s> niagaros upės ilgiausi intakai </s>
+<s> niagaros upės ilgiausieji intakai </s>
+<s> niagaros upės ilgis </s>
+<s> niagaros upės intakai </s>
+<s> niagaros upės ištekliai </s>
+<s> niagaros upės kairieji intakai </s>
+<s> niagaros upės krantai </s>
+<s> niagaros upės krantas </s>
+<s> niagaros upės ledas </s>
+<s> niagaros upės ledo danga </s>
+<s> niagaros upės ledo storis </s>
+<s> niagaros upės ledonešis </s>
+<s> niagaros upės ledų sangrūdos </s>
+<s> niagaros upės lygio svyravimai </s>
+<s> niagaros upės maksimalus debitas </s>
+<s> niagaros upės minimalus debitas </s>
+<s> niagaros upės nuolydis </s>
+<s> niagaros upės nuotraukos </s>
+<s> niagaros upės nuotėkis </s>
+<s> niagaros upės plotas </s>
+<s> niagaros upės plotis </s>
+<s> niagaros upės potvyniai </s>
+<s> niagaros upės rėvos </s>
+<s> niagaros upės salos </s>
+<s> niagaros upės salpa </s>
+<s> niagaros upės santaka </s>
+<s> niagaros upės santakos </s>
+<s> niagaros upės slėniai </s>
+<s> niagaros upės slėnis </s>
+<s> niagaros upės sraunumas </s>
+<s> niagaros upės srovės </s>
+<s> niagaros upės teka per valstybes </s>
+<s> niagaros upės tiltai </s>
+<s> niagaros upės tėkmė </s>
+<s> niagaros upės uostai </s>
+<s> niagaros upės vaga </s>
+<s> niagaros upės vagos plotis </s>
+<s> niagaros upės vaizdai </s>
+<s> niagaros upės vandens temperatūra </s>
+<s> niagaros upės vidutinis debitas </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> niagaros upės žemupys </s>
+<s> niagaros upės žiotys </s>
+<s> niagaros upės žuvys </s>
+<s> niagaros upę prasideda </s>
+<s> niagaros vaga </s>
+<s> niagaros vagos plotis </s>
+<s> niagaros vaizdai </s>
+<s> niagaros vaizdai </s>
+<s> niagaros vandens temperatūra </s>
+<s> niagaros vidutinis debitas </s>
+<s> niagaros vidutinė vandens temperatūra </s>
+<s> niagaros žemupys </s>
+<s> niagaros žiotys </s>
+<s> niagaros žuvys </s>
+<s> niagarą prasideda </s>
+<s> nilas maitina </s>
+<s> nilas užlieja pievas </s>
+<s> nile neršia </s>
+<s> nile veisiasi </s>
+<s> nilo amžius </s>
+<s> nilo apsemiamos teritorijos </s>
+<s> nilo augalija </s>
+<s> nilo aukštupys </s>
+<s> nilo baseinas </s>
+<s> nilo baseinas ribojasi </s>
+<s> nilo baseino plotas </s>
+<s> nilo bioįvairovė </s>
+<s> nilo debitas </s>
+<s> nilo dešinieji intakai </s>
+<s> nilo dugnas </s>
+<s> nilo giliausia vieta </s>
+<s> nilo gražiausios vietos </s>
+<s> nilo gylis </s>
+<s> nilo gyvūnija </s>
+<s> nilo hidroelektrinės </s>
+<s> nilo ilgiausi intakai </s>
+<s> nilo ilgiausieji intakai </s>
+<s> nilo ilgis </s>
+<s> nilo intakai </s>
+<s> nilo ištekliai </s>
+<s> nilo kairieji intakai </s>
+<s> nilo krantai </s>
+<s> nilo krantas </s>
+<s> nilo ledas </s>
+<s> nilo ledo danga </s>
+<s> nilo ledo storis </s>
+<s> nilo ledonešis </s>
+<s> nilo ledų sangrūdos </s>
+<s> nilo lygio svyravimai </s>
+<s> nilo maksimalus debitas </s>
+<s> nilo minimalus debitas </s>
+<s> nilo nuolydis </s>
+<s> nilo nuotraukos </s>
+<s> nilo nuotėkis </s>
+<s> nilo plotas </s>
+<s> nilo plotis </s>
+<s> nilo potvyniai </s>
+<s> nilo rėvos </s>
+<s> nilo salos </s>
+<s> nilo salpa </s>
+<s> nilo santaka </s>
+<s> nilo santakos </s>
+<s> nilo slėniai </s>
+<s> nilo slėnis </s>
+<s> nilo sraunumas </s>
+<s> nilo srovės </s>
+<s> nilo teka per valstybes </s>
+<s> nilo tiltai </s>
+<s> nilo tėkmė </s>
+<s> nilo uostai </s>
+<s> nilo upė maitina </s>
+<s> nilo upė užlieja pievas </s>
+<s> nilo upėje neršia </s>
+<s> nilo upėje veisiasi </s>
+<s> nilo upės amžius </s>
+<s> nilo upės apsemiamos teritorijos </s>
+<s> nilo upės augalija </s>
+<s> nilo upės aukštupys </s>
+<s> nilo upės baseinas </s>
+<s> nilo upės baseinas ribojasi </s>
+<s> nilo upės baseino plotas </s>
+<s> nilo upės bioįvairovė </s>
+<s> nilo upės debitas </s>
+<s> nilo upės dešinieji intakai </s>
+<s> nilo upės dugnas </s>
+<s> nilo upės giliausia vieta </s>
+<s> nilo upės gražiausios vietos </s>
+<s> nilo upės gylis </s>
+<s> nilo upės gyvūnija </s>
+<s> nilo upės hidroelektrinės </s>
+<s> nilo upės ilgiausi intakai </s>
+<s> nilo upės ilgiausieji intakai </s>
+<s> nilo upės ilgis </s>
+<s> nilo upės intakai </s>
+<s> nilo upės ištekliai </s>
+<s> nilo upės kairieji intakai </s>
+<s> nilo upės krantai </s>
+<s> nilo upės krantas </s>
+<s> nilo upės ledas </s>
+<s> nilo upės ledo danga </s>
+<s> nilo upės ledo storis </s>
+<s> nilo upės ledonešis </s>
+<s> nilo upės ledų sangrūdos </s>
+<s> nilo upės lygio svyravimai </s>
+<s> nilo upės maksimalus debitas </s>
+<s> nilo upės minimalus debitas </s>
+<s> nilo upės nuolydis </s>
+<s> nilo upės nuotraukos </s>
+<s> nilo upės nuotėkis </s>
+<s> nilo upės plotas </s>
+<s> nilo upės plotis </s>
+<s> nilo upės potvyniai </s>
+<s> nilo upės rėvos </s>
+<s> nilo upės salos </s>
+<s> nilo upės salpa </s>
+<s> nilo upės santaka </s>
+<s> nilo upės santakos </s>
+<s> nilo upės slėniai </s>
+<s> nilo upės slėnis </s>
+<s> nilo upės sraunumas </s>
+<s> nilo upės srovės </s>
+<s> nilo upės teka per valstybes </s>
+<s> nilo upės tiltai </s>
+<s> nilo upės tėkmė </s>
+<s> nilo upės uostai </s>
+<s> nilo upės vaga </s>
+<s> nilo upės vagos plotis </s>
+<s> nilo upės vaizdai </s>
+<s> nilo upės vandens temperatūra </s>
+<s> nilo upės vidutinis debitas </s>
+<s> nilo upės vidutinė vandens temperatūra </s>
+<s> nilo upės žemupys </s>
+<s> nilo upės žiotys </s>
+<s> nilo upės žuvys </s>
+<s> nilo upę prasideda </s>
+<s> nilo vaga </s>
+<s> nilo vagos plotis </s>
+<s> nilo vaizdai </s>
+<s> nilo vandens temperatūra </s>
+<s> nilo vidutinis debitas </s>
+<s> nilo vidutinė vandens temperatūra </s>
+<s> nilo žemupys </s>
+<s> nilo žiotys </s>
+<s> nilo žuvys </s>
+<s> nilą prasideda </s>
+<s> niujorkas įkurtas </s>
+<s> niujorkas žemėlapyje </s>
+<s> niujorko gyventojų skaičius </s>
+<s> niujorko gyventojų tankis </s>
+<s> niujorko istorija </s>
+<s> niujorko lankytinos vietos </s>
+<s> niujorko muziejai </s>
+<s> niujorko nuotraukos </s>
+<s> niujorko plotas </s>
+<s> niujorko transportas </s>
+<s> niujorko vaizdai </s>
+<s> niujorko žemėlapis </s>
+<s> norvegija susikūrė </s>
+<s> norvegija žemėlapyje </s>
+<s> norvegijos bendrasis vidaus produktas </s>
+<s> norvegijos didžiausi miestai </s>
+<s> norvegijos ekonomika </s>
+<s> norvegijos ežerai </s>
+<s> norvegijos gamta </s>
+<s> norvegijos gyventojų skaičius </s>
+<s> norvegijos herbas </s>
+<s> norvegijos istorija </s>
+<s> norvegijos jūrų uostai </s>
+<s> norvegijos kalba </s>
+<s> norvegijos kalbos </s>
+<s> norvegijos karai </s>
+<s> norvegijos karaliai </s>
+<s> norvegijos kraštovaizdis </s>
+<s> norvegijos kultūra </s>
+<s> norvegijos kultūros objektai </s>
+<s> norvegijos kurortai </s>
+<s> norvegijos nepriklausomybė </s>
+<s> norvegijos nuotraukos </s>
+<s> norvegijos oro uostai </s>
+<s> norvegijos pinigai </s>
+<s> norvegijos plotas </s>
+<s> norvegijos politinė santvarka </s>
+<s> norvegijos pragvenimo lygis </s>
+<s> norvegijos pramonė </s>
+<s> norvegijos sostinė </s>
+<s> norvegijos tautos </s>
+<s> norvegijos universitetai </s>
+<s> norvegijos upės </s>
+<s> norvegijos vaizdai </s>
+<s> norvegijos valdovai </s>
+<s> norvegijos vėliava </s>
+<s> norvegijos žemėlapis </s>
+<s> oslas įkurtas </s>
+<s> oslas žemėlapyje </s>
+<s> oslo gyventojų skaičius </s>
+<s> oslo gyventojų tankis </s>
+<s> oslo istorija </s>
+<s> oslo lankytinos vietos </s>
+<s> oslo muziejai </s>
+<s> oslo nuotraukos </s>
+<s> oslo plotas </s>
+<s> oslo transportas </s>
+<s> oslo vaizdai </s>
+<s> oslo žemėlapis </s>
+<s> pekinas įkurtas </s>
+<s> pekinas žemėlapyje </s>
+<s> pekino gyventojų skaičius </s>
+<s> pekino gyventojų tankis </s>
+<s> pekino istorija </s>
+<s> pekino lankytinos vietos </s>
+<s> pekino muziejai </s>
+<s> pekino nuotraukos </s>
+<s> pekino plotas </s>
+<s> pekino transportas </s>
+<s> pekino vaizdai </s>
+<s> pekino žemėlapis </s>
+<s> peru bendrasis vidaus produktas </s>
+<s> peru didžiausi miestai </s>
+<s> peru ekonomika </s>
+<s> peru ežerai </s>
+<s> peru gamta </s>
+<s> peru gyventojų skaičius </s>
+<s> peru herbas </s>
+<s> peru istorija </s>
+<s> peru jūrų uostai </s>
+<s> peru kalba </s>
+<s> peru kalbos </s>
+<s> peru karai </s>
+<s> peru karaliai </s>
+<s> peru kraštovaizdis </s>
+<s> peru kultūra </s>
+<s> peru kultūros objektai </s>
+<s> peru kurortai </s>
+<s> peru nepriklausomybė </s>
+<s> peru nuotraukos </s>
+<s> peru oro uostai </s>
+<s> peru pinigai </s>
+<s> peru plotas </s>
+<s> peru politinė santvarka </s>
+<s> peru pragvenimo lygis </s>
+<s> peru pramonė </s>
+<s> peru sostinė </s>
+<s> peru susikūrė </s>
+<s> peru tautos </s>
+<s> peru universitetai </s>
+<s> peru upės </s>
+<s> peru vaizdai </s>
+<s> peru valdovai </s>
+<s> peru vėliava </s>
+<s> peru žemėlapis </s>
+<s> peru žemėlapyje </s>
+<s> pietų amerikos amžius </s>
+<s> pietų amerikos civilizacija </s>
+<s> pietų amerikos ekonomika </s>
+<s> pietų amerikos gyventojų skaičius </s>
+<s> pietų amerikos istorija </s>
+<s> pietų amerikos kalbos </s>
+<s> pietų amerikos klimatas </s>
+<s> pietų amerikos kultūra </s>
+<s> pietų amerikos nuotraukos </s>
+<s> pietų amerikos plotas </s>
+<s> pietų amerikos tautos </s>
+<s> pietų amerikos vaizdai </s>
+<s> pietų amerikos žemyno amžius </s>
+<s> pietų amerikos žemyno civilizacija </s>
+<s> pietų amerikos žemyno ekonomika </s>
+<s> pietų amerikos žemyno gyventojų skaičius </s>
+<s> pietų amerikos žemyno istorija </s>
+<s> pietų amerikos žemyno kalbos </s>
+<s> pietų amerikos žemyno klimatas </s>
+<s> pietų amerikos žemyno kultūra </s>
+<s> pietų amerikos žemyno nuotraukos </s>
+<s> pietų amerikos žemyno plotas </s>
+<s> pietų amerikos žemyno tautos </s>
+<s> pietų amerikos žemyno vaizdai </s>
+<s> pietų vandenynas skalauja </s>
+<s> pietų vandenyno amžius </s>
+<s> pietų vandenyno archipelagai </s>
+<s> pietų vandenyno audros </s>
+<s> pietų vandenyno augalija </s>
+<s> pietų vandenyno bangos </s>
+<s> pietų vandenyno bangų aukštis </s>
+<s> pietų vandenyno besiribojančios valstybės </s>
+<s> pietų vandenyno biomasė </s>
+<s> pietų vandenyno cunamis </s>
+<s> pietų vandenyno didžiausi uostai </s>
+<s> pietų vandenyno didžiausios salos </s>
+<s> pietų vandenyno dubuma </s>
+<s> pietų vandenyno dubumos </s>
+<s> pietų vandenyno dugnas </s>
+<s> pietų vandenyno dugno reljefas </s>
+<s> pietų vandenyno giliausia vieta </s>
+<s> pietų vandenyno giliausias taškas </s>
+<s> pietų vandenyno gylis </s>
+<s> pietų vandenyno gyvūnija </s>
+<s> pietų vandenyno ištekliai </s>
+<s> pietų vandenyno jūros </s>
+<s> pietų vandenyno kalnagūbriai </s>
+<s> pietų vandenyno klimatas </s>
+<s> pietų vandenyno ledas </s>
+<s> pietų vandenyno ledynai </s>
+<s> pietų vandenyno lygio svyravimai </s>
+<s> pietų vandenyno nuotraukos </s>
+<s> pietų vandenyno oro temperatūra </s>
+<s> pietų vandenyno pakrantės </s>
+<s> pietų vandenyno pakrančių valstybės </s>
+<s> pietų vandenyno plotas </s>
+<s> pietų vandenyno ribos </s>
+<s> pietų vandenyno salos </s>
+<s> pietų vandenyno salynai </s>
+<s> pietų vandenyno salų plotas </s>
+<s> pietų vandenyno srovės </s>
+<s> pietų vandenyno sąsiauriai </s>
+<s> pietų vandenyno tūris </s>
+<s> pietų vandenyno ugnikalniai </s>
+<s> pietų vandenyno uostai </s>
+<s> pietų vandenyno upių žiotys </s>
+<s> pietų vandenyno upės </s>
+<s> pietų vandenyno vaizdai </s>
+<s> pietų vandenyno vandens masė </s>
+<s> pietų vandenyno vandens spalva </s>
+<s> pietų vandenyno vandens sūrumas </s>
+<s> pietų vandenyno vandens temperatūra </s>
+<s> pietų vandenyno vidutinis gylis </s>
+<s> pietų vandenyno vidutinė oro temperatūra </s>
+<s> pietų vandenyno vidutinė vandens temperatūra </s>
+<s> pietų vandenyno vulkanai </s>
+<s> pietų vandenyno įdubos </s>
+<s> pietų vandenyno įlankos </s>
+<s> pietų vandenyno šelfai </s>
+<s> pietų vandenyno žemės drebėjimai </s>
+<s> pietų vandenyno žuvys </s>
+<s> pietų vandenynui priklausančios jūros </s>
+<s> pietų vandenyną supa valstybės </s>
+<s> pnompenio gyventojų skaičius </s>
+<s> pnompenio gyventojų tankis </s>
+<s> pnompenio istorija </s>
+<s> pnompenio lankytinos vietos </s>
+<s> pnompenio muziejai </s>
+<s> pnompenio nuotraukos </s>
+<s> pnompenio plotas </s>
+<s> pnompenio transportas </s>
+<s> pnompenio vaizdai </s>
+<s> pnompenio žemėlapis </s>
+<s> pnompenis įkurtas </s>
+<s> pnompenis žemėlapyje </s>
+<s> ramiajam vandenynui priklausančios jūros </s>
+<s> ramiojo vandenyno amžius </s>
+<s> ramiojo vandenyno archipelagai </s>
+<s> ramiojo vandenyno audros </s>
+<s> ramiojo vandenyno augalija </s>
+<s> ramiojo vandenyno bangos </s>
+<s> ramiojo vandenyno bangų aukštis </s>
+<s> ramiojo vandenyno besiribojančios valstybės </s>
+<s> ramiojo vandenyno biomasė </s>
+<s> ramiojo vandenyno cunamis </s>
+<s> ramiojo vandenyno didžiausi uostai </s>
+<s> ramiojo vandenyno didžiausios salos </s>
+<s> ramiojo vandenyno dubuma </s>
+<s> ramiojo vandenyno dubumos </s>
+<s> ramiojo vandenyno dugnas </s>
+<s> ramiojo vandenyno dugno reljefas </s>
+<s> ramiojo vandenyno giliausia vieta </s>
+<s> ramiojo vandenyno giliausias taškas </s>
+<s> ramiojo vandenyno gylis </s>
+<s> ramiojo vandenyno gyvūnija </s>
+<s> ramiojo vandenyno ištekliai </s>
+<s> ramiojo vandenyno jūros </s>
+<s> ramiojo vandenyno kalnagūbriai </s>
+<s> ramiojo vandenyno klimatas </s>
+<s> ramiojo vandenyno ledas </s>
+<s> ramiojo vandenyno ledynai </s>
+<s> ramiojo vandenyno lygio svyravimai </s>
+<s> ramiojo vandenyno nuotraukos </s>
+<s> ramiojo vandenyno oro temperatūra </s>
+<s> ramiojo vandenyno pakrantės </s>
+<s> ramiojo vandenyno pakrančių valstybės </s>
+<s> ramiojo vandenyno plotas </s>
+<s> ramiojo vandenyno ribos </s>
+<s> ramiojo vandenyno salos </s>
+<s> ramiojo vandenyno salynai </s>
+<s> ramiojo vandenyno salų plotas </s>
+<s> ramiojo vandenyno srovės </s>
+<s> ramiojo vandenyno sąsiauriai </s>
+<s> ramiojo vandenyno tūris </s>
+<s> ramiojo vandenyno ugnikalniai </s>
+<s> ramiojo vandenyno uostai </s>
+<s> ramiojo vandenyno upių žiotys </s>
+<s> ramiojo vandenyno upės </s>
+<s> ramiojo vandenyno vaizdai </s>
+<s> ramiojo vandenyno vandens masė </s>
+<s> ramiojo vandenyno vandens spalva </s>
+<s> ramiojo vandenyno vandens sūrumas </s>
+<s> ramiojo vandenyno vandens temperatūra </s>
+<s> ramiojo vandenyno vidutinis gylis </s>
+<s> ramiojo vandenyno vidutinė oro temperatūra </s>
+<s> ramiojo vandenyno vidutinė vandens temperatūra </s>
+<s> ramiojo vandenyno vulkanai </s>
+<s> ramiojo vandenyno įdubos </s>
+<s> ramiojo vandenyno įlankos </s>
+<s> ramiojo vandenyno šelfai </s>
+<s> ramiojo vandenyno žemės drebėjimai </s>
+<s> ramiojo vandenyno žuvys </s>
+<s> ramnefjelsfoseno krioklio nuotraukos </s>
+<s> ramnefjelsfoseno krioklio vaizdai </s>
+<s> ramnefjelsfoseno nuotraukos </s>
+<s> ramnefjelsfoseno vaizdai </s>
+<s> ramusis vandenynas skalauja </s>
+<s> ramųjį vandenyną supa valstybės </s>
+<s> rio de žaneiras įkurtas </s>
+<s> rio de žaneiras žemėlapyje </s>
+<s> rio de žaneiro gyventojų skaičius </s>
+<s> rio de žaneiro gyventojų tankis </s>
+<s> rio de žaneiro istorija </s>
+<s> rio de žaneiro lankytinos vietos </s>
+<s> rio de žaneiro muziejai </s>
+<s> rio de žaneiro nuotraukos </s>
+<s> rio de žaneiro plotas </s>
+<s> rio de žaneiro transportas </s>
+<s> rio de žaneiro vaizdai </s>
+<s> rio de žaneiro žemėlapis </s>
+<s> roma įkurtas </s>
+<s> roma žemėlapyje </s>
+<s> romos gyventojų skaičius </s>
+<s> romos gyventojų tankis </s>
+<s> romos istorija </s>
+<s> romos lankytinos vietos </s>
+<s> romos muziejai </s>
+<s> romos nuotraukos </s>
+<s> romos plotas </s>
+<s> romos transportas </s>
+<s> romos vaizdai </s>
+<s> romos žemėlapis </s>
+<s> rusija susikūrė </s>
+<s> rusija žemėlapyje </s>
+<s> rusijos bendrasis vidaus produktas </s>
+<s> rusijos didžiausi miestai </s>
+<s> rusijos ekonomika </s>
+<s> rusijos ežerai </s>
+<s> rusijos gamta </s>
+<s> rusijos gyventojų skaičius </s>
+<s> rusijos herbas </s>
+<s> rusijos istorija </s>
+<s> rusijos jūrų uostai </s>
+<s> rusijos kalba </s>
+<s> rusijos kalbos </s>
+<s> rusijos karai </s>
+<s> rusijos karaliai </s>
+<s> rusijos kraštovaizdis </s>
+<s> rusijos kultūra </s>
+<s> rusijos kultūros objektai </s>
+<s> rusijos kurortai </s>
+<s> rusijos nepriklausomybė </s>
+<s> rusijos nuotraukos </s>
+<s> rusijos oro uostai </s>
+<s> rusijos pinigai </s>
+<s> rusijos plotas </s>
+<s> rusijos politinė santvarka </s>
+<s> rusijos pragvenimo lygis </s>
+<s> rusijos pramonė </s>
+<s> rusijos sostinė </s>
+<s> rusijos tautos </s>
+<s> rusijos universitetai </s>
+<s> rusijos upės </s>
+<s> rusijos vaizdai </s>
+<s> rusijos valdovai </s>
+<s> rusijos vėliava </s>
+<s> rusijos žemėlapis </s>
+<s> simono petro vienuolynas kultūros paveldas </s>
+<s> simono petro vienuolynas unesko </s>
+<s> simono petro vienuolynas žemėlapyje </s>
+<s> simono petro vienuolyno amžius </s>
+<s> simono petro vienuolyno aukštis </s>
+<s> simono petro vienuolyno ilgis </s>
+<s> simono petro vienuolyno istorija </s>
+<s> simono petro vienuolyno nuotraukos </s>
+<s> simono petro vienuolyno plotis </s>
+<s> simono petro vienuolyno vaizdai </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> stounhendžas kultūros paveldas </s>
+<s> stounhendžas unesko </s>
+<s> stounhendžas žemėlapyje </s>
+<s> stounhendžo amžius </s>
+<s> stounhendžo aukštis </s>
+<s> stounhendžo ilgis </s>
+<s> stounhendžo istorija </s>
+<s> stounhendžo nuotraukos </s>
+<s> stounhendžo plotis </s>
+<s> stounhendžo vaizdai </s>
+<s> stounhendžo žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tadžmahalas unesko </s>
+<s> tadžmahalas žemėlapyje </s>
+<s> tadžmahalo amžius </s>
+<s> tadžmahalo aukštis </s>
+<s> tadžmahalo ilgis </s>
+<s> tadžmahalo istorija </s>
+<s> tadžmahalo nuotraukos </s>
+<s> tadžmahalo plotis </s>
+<s> tadžmahalo vaizdai </s>
+<s> tadžmahalo žemėlapis </s>
+<s> tailandas susikūrė </s>
+<s> tailandas žemėlapyje </s>
+<s> tailando bendrasis vidaus produktas </s>
+<s> tailando didžiausi miestai </s>
+<s> tailando ekonomika </s>
+<s> tailando ežerai </s>
+<s> tailando gamta </s>
+<s> tailando gyventojų skaičius </s>
+<s> tailando herbas </s>
+<s> tailando istorija </s>
+<s> tailando jūrų uostai </s>
+<s> tailando kalba </s>
+<s> tailando kalbos </s>
+<s> tailando karai </s>
+<s> tailando karaliai </s>
+<s> tailando kraštovaizdis </s>
+<s> tailando kultūra </s>
+<s> tailando kultūros objektai </s>
+<s> tailando kurortai </s>
+<s> tailando nepriklausomybė </s>
+<s> tailando nuotraukos </s>
+<s> tailando oro uostai </s>
+<s> tailando pinigai </s>
+<s> tailando plotas </s>
+<s> tailando politinė santvarka </s>
+<s> tailando pragvenimo lygis </s>
+<s> tailando pramonė </s>
+<s> tailando sostinė </s>
+<s> tailando tautos </s>
+<s> tailando universitetai </s>
+<s> tailando upės </s>
+<s> tailando vaizdai </s>
+<s> tailando valdovai </s>
+<s> tailando vėliava </s>
+<s> tailando žemėlapis </s>
+<s> tanzanija susikūrė </s>
+<s> tanzanija žemėlapyje </s>
+<s> tanzanijos bendrasis vidaus produktas </s>
+<s> tanzanijos didžiausi miestai </s>
+<s> tanzanijos ekonomika </s>
+<s> tanzanijos ežerai </s>
+<s> tanzanijos gamta </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tanzanijos herbas </s>
+<s> tanzanijos istorija </s>
+<s> tanzanijos jūrų uostai </s>
+<s> tanzanijos kalba </s>
+<s> tanzanijos kalbos </s>
+<s> tanzanijos karai </s>
+<s> tanzanijos karaliai </s>
+<s> tanzanijos kraštovaizdis </s>
+<s> tanzanijos kultūra </s>
+<s> tanzanijos kultūros objektai </s>
+<s> tanzanijos kurortai </s>
+<s> tanzanijos nepriklausomybė </s>
+<s> tanzanijos nuotraukos </s>
+<s> tanzanijos oro uostai </s>
+<s> tanzanijos pinigai </s>
+<s> tanzanijos plotas </s>
+<s> tanzanijos politinė santvarka </s>
+<s> tanzanijos pragvenimo lygis </s>
+<s> tanzanijos pramonė </s>
+<s> tanzanijos sostinė </s>
+<s> tanzanijos tautos </s>
+<s> tanzanijos universitetai </s>
+<s> tanzanijos upės </s>
+<s> tanzanijos vaizdai </s>
+<s> tanzanijos valdovai </s>
+<s> tanzanijos vėliava </s>
+<s> tanzanijos žemėlapis </s>
+<s> tel avivas įkurtas </s>
+<s> tel avivas žemėlapyje </s>
+<s> tel avivo gyventojų skaičius </s>
+<s> tel avivo gyventojų tankis </s>
+<s> tel avivo istorija </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tel avivo muziejai </s>
+<s> tel avivo nuotraukos </s>
+<s> tel avivo plotas </s>
+<s> tel avivo transportas </s>
+<s> tel avivo vaizdai </s>
+<s> tel avivo žemėlapis </s>
+<s> tibetas susikūrė </s>
+<s> tibetas žemėlapyje </s>
+<s> tibeto bendrasis vidaus produktas </s>
+<s> tibeto didžiausi miestai </s>
+<s> tibeto ekonomika </s>
+<s> tibeto ežerai </s>
+<s> tibeto gamta </s>
+<s> tibeto gyventojų skaičius </s>
+<s> tibeto herbas </s>
+<s> tibeto istorija </s>
+<s> tibeto jūrų uostai </s>
+<s> tibeto kalba </s>
+<s> tibeto kalbos </s>
+<s> tibeto karai </s>
+<s> tibeto karaliai </s>
+<s> tibeto kraštovaizdis </s>
+<s> tibeto kultūra </s>
+<s> tibeto kultūros objektai </s>
+<s> tibeto kurortai </s>
+<s> tibeto nepriklausomybė </s>
+<s> tibeto nuotraukos </s>
+<s> tibeto oro uostai </s>
+<s> tibeto pinigai </s>
+<s> tibeto plotas </s>
+<s> tibeto politinė santvarka </s>
+<s> tibeto pragvenimo lygis </s>
+<s> tibeto pramonė </s>
+<s> tibeto sostinė </s>
+<s> tibeto tautos </s>
+<s> tibeto universitetai </s>
+<s> tibeto upės </s>
+<s> tibeto vaizdai </s>
+<s> tibeto valdovai </s>
+<s> tibeto vėliava </s>
+<s> tibeto žemėlapis </s>
+<s> titikaka maitina </s>
+<s> titikakoje gėlas vanduo </s>
+<s> titikakoje sugaunamos žuvys </s>
+<s> titikakoje veisiasi </s>
+<s> titikakos altitudė </s>
+<s> titikakos amžius </s>
+<s> titikakos augalija </s>
+<s> titikakos aukštis </s>
+<s> titikakos baseino plotas </s>
+<s> titikakos bioįvairovė </s>
+<s> titikakos didžiausias gylis </s>
+<s> titikakos dugnas </s>
+<s> titikakos dugno reljefas </s>
+<s> titikakos ežeras maitina </s>
+<s> titikakos ežere gėlas vanduo </s>
+<s> titikakos ežere sugaunamos žuvys </s>
+<s> titikakos ežere veisiasi </s>
+<s> titikakos ežero altitudė </s>
+<s> titikakos ežero amžius </s>
+<s> titikakos ežero augalija </s>
+<s> titikakos ežero aukštis </s>
+<s> titikakos ežero baseino plotas </s>
+<s> titikakos ežero bioįvairovė </s>
+<s> titikakos ežero didžiausias gylis </s>
+<s> titikakos ežero dugnas </s>
+<s> titikakos ežero dugno reljefas </s>
+<s> titikakos ežero giliausia vieta </s>
+<s> titikakos ežero gilumas </s>
+<s> titikakos ežero gražiausios vietos </s>
+<s> titikakos ežero gylis </s>
+<s> titikakos ežero gyvūnija </s>
+<s> titikakos ežero ilgis </s>
+<s> titikakos ežero intakai </s>
+<s> titikakos ežero istorinė reikšmė </s>
+<s> titikakos ežero ištekliai </s>
+<s> titikakos ežero kilmė </s>
+<s> titikakos ežero krantai </s>
+<s> titikakos ežero krantas </s>
+<s> titikakos ežero kranto ilgis </s>
+<s> titikakos ežero ledas </s>
+<s> titikakos ežero ledo danga </s>
+<s> titikakos ežero ledo storis </s>
+<s> titikakos ežero lygio svyravimai </s>
+<s> titikakos ežero nuotraukos </s>
+<s> titikakos ežero plotas </s>
+<s> titikakos ežero plotis </s>
+<s> titikakos ežero salos </s>
+<s> titikakos ežero svarba </s>
+<s> titikakos ežero tūris </s>
+<s> titikakos ežero vaizdai </s>
+<s> titikakos ežero vandens temperatūra </s>
+<s> titikakos ežero vidutinis gylis </s>
+<s> titikakos ežero įlankos </s>
+<s> titikakos ežero žuvys </s>
+<s> titikakos giliausia vieta </s>
+<s> titikakos gilumas </s>
+<s> titikakos gražiausios vietos </s>
+<s> titikakos gylis </s>
+<s> titikakos gyvūnija </s>
+<s> titikakos ilgis </s>
+<s> titikakos intakai </s>
+<s> titikakos istorinė reikšmė </s>
+<s> titikakos ištekliai </s>
+<s> titikakos kilmė </s>
+<s> titikakos krantai </s>
+<s> titikakos krantas </s>
+<s> titikakos kranto ilgis </s>
+<s> titikakos ledas </s>
+<s> titikakos ledo danga </s>
+<s> titikakos ledo storis </s>
+<s> titikakos lygio svyravimai </s>
+<s> titikakos nuotraukos </s>
+<s> titikakos plotas </s>
+<s> titikakos plotis </s>
+<s> titikakos salos </s>
+<s> titikakos svarba </s>
+<s> titikakos tūris </s>
+<s> titikakos vaizdai </s>
+<s> titikakos vandens temperatūra </s>
+<s> titikakos vidutinis gylis </s>
+<s> titikakos įlankos </s>
+<s> titikakos žuvys </s>
+<s> tokijas įkurtas </s>
+<s> tokijas žemėlapyje </s>
+<s> tokijo gyventojų skaičius </s>
+<s> tokijo gyventojų tankis </s>
+<s> tokijo istorija </s>
+<s> tokijo lankytinos vietos </s>
+<s> tokijo muziejai </s>
+<s> tokijo nuotraukos </s>
+<s> tokijo plotas </s>
+<s> tokijo transportas </s>
+<s> tokijo vaizdai </s>
+<s> tokijo žemėlapis </s>
+<s> tugelos krioklio nuotraukos </s>
+<s> tugelos krioklio vaizdai </s>
+<s> tugelos nuotraukos </s>
+<s> tugelos vaizdai </s>
+<s> uganda susikūrė </s>
+<s> uganda žemėlapyje </s>
+<s> ugandos bendrasis vidaus produktas </s>
+<s> ugandos didžiausi miestai </s>
+<s> ugandos ekonomika </s>
+<s> ugandos ežerai </s>
+<s> ugandos gamta </s>
+<s> ugandos gyventojų skaičius </s>
+<s> ugandos herbas </s>
+<s> ugandos istorija </s>
+<s> ugandos jūrų uostai </s>
+<s> ugandos kalba </s>
+<s> ugandos kalbos </s>
+<s> ugandos karai </s>
+<s> ugandos karaliai </s>
+<s> ugandos kraštovaizdis </s>
+<s> ugandos kultūra </s>
+<s> ugandos kultūros objektai </s>
+<s> ugandos kurortai </s>
+<s> ugandos nepriklausomybė </s>
+<s> ugandos nuotraukos </s>
+<s> ugandos oro uostai </s>
+<s> ugandos pinigai </s>
+<s> ugandos plotas </s>
+<s> ugandos politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> ugandos pramonė </s>
+<s> ugandos sostinė </s>
+<s> ugandos tautos </s>
+<s> ugandos universitetai </s>
+<s> ugandos upės </s>
+<s> ugandos vaizdai </s>
+<s> ugandos valdovai </s>
+<s> ugandos vėliava </s>
+<s> ugandos žemėlapis </s>
+<s> uluru nuotraukos </s>
+<s> uluru vaizdai </s>
+<s> uluru žemėlapis </s>
+<s> uluru žemėlapyje </s>
+<s> uralas maitina </s>
+<s> uralas užlieja pievas </s>
+<s> uralas žemėlapyje </s>
+<s> urale neršia </s>
+<s> urale veisiasi </s>
+<s> uralo amžius </s>
+<s> uralo apsemiamos teritorijos </s>
+<s> uralo augalija </s>
+<s> uralo aukštupys </s>
+<s> uralo baseinas </s>
+<s> uralo baseinas ribojasi </s>
+<s> uralo baseino plotas </s>
+<s> uralo bioįvairovė </s>
+<s> uralo debitas </s>
+<s> uralo dešinieji intakai </s>
+<s> uralo dugnas </s>
+<s> uralo giliausia vieta </s>
+<s> uralo gražiausios vietos </s>
+<s> uralo gylis </s>
+<s> uralo gyvūnija </s>
+<s> uralo hidroelektrinės </s>
+<s> uralo ilgiausi intakai </s>
+<s> uralo ilgiausieji intakai </s>
+<s> uralo ilgis </s>
+<s> uralo intakai </s>
+<s> uralo ištekliai </s>
+<s> uralo kairieji intakai </s>
+<s> uralo kalnai žemėlapyje </s>
+<s> uralo kalnų nuotraukos </s>
+<s> uralo kalnų vaizdai </s>
+<s> uralo kalnų žemėlapis </s>
+<s> uralo krantai </s>
+<s> uralo krantas </s>
+<s> uralo ledas </s>
+<s> uralo ledo danga </s>
+<s> uralo ledo storis </s>
+<s> uralo ledonešis </s>
+<s> uralo ledų sangrūdos </s>
+<s> uralo lygio svyravimai </s>
+<s> uralo maksimalus debitas </s>
+<s> uralo minimalus debitas </s>
+<s> uralo nuolydis </s>
+<s> uralo nuotraukos </s>
+<s> uralo nuotraukos </s>
+<s> uralo nuotėkis </s>
+<s> uralo plotas </s>
+<s> uralo plotis </s>
+<s> uralo potvyniai </s>
+<s> uralo rėvos </s>
+<s> uralo salos </s>
+<s> uralo salpa </s>
+<s> uralo santaka </s>
+<s> uralo santakos </s>
+<s> uralo slėniai </s>
+<s> uralo slėnis </s>
+<s> uralo sraunumas </s>
+<s> uralo srovės </s>
+<s> uralo teka per valstybes </s>
+<s> uralo tiltai </s>
+<s> uralo tėkmė </s>
+<s> uralo uostai </s>
+<s> uralo upė maitina </s>
+<s> uralo upė užlieja pievas </s>
+<s> uralo upėje neršia </s>
+<s> uralo upėje veisiasi </s>
+<s> uralo upės amžius </s>
+<s> uralo upės apsemiamos teritorijos </s>
+<s> uralo upės augalija </s>
+<s> uralo upės aukštupys </s>
+<s> uralo upės baseinas </s>
+<s> uralo upės baseinas ribojasi </s>
+<s> uralo upės baseino plotas </s>
+<s> uralo upės bioįvairovė </s>
+<s> uralo upės debitas </s>
+<s> uralo upės dešinieji intakai </s>
+<s> uralo upės dugnas </s>
+<s> uralo upės giliausia vieta </s>
+<s> uralo upės gražiausios vietos </s>
+<s> uralo upės gylis </s>
+<s> uralo upės gyvūnija </s>
+<s> uralo upės hidroelektrinės </s>
+<s> uralo upės ilgiausi intakai </s>
+<s> uralo upės ilgiausieji intakai </s>
+<s> uralo upės ilgis </s>
+<s> uralo upės intakai </s>
+<s> uralo upės ištekliai </s>
+<s> uralo upės kairieji intakai </s>
+<s> uralo upės krantai </s>
+<s> uralo upės krantas </s>
+<s> uralo upės ledas </s>
+<s> uralo upės ledo danga </s>
+<s> uralo upės ledo storis </s>
+<s> uralo upės ledonešis </s>
+<s> uralo upės ledų sangrūdos </s>
+<s> uralo upės lygio svyravimai </s>
+<s> uralo upės maksimalus debitas </s>
+<s> uralo upės minimalus debitas </s>
+<s> uralo upės nuolydis </s>
+<s> uralo upės nuotraukos </s>
+<s> uralo upės nuotėkis </s>
+<s> uralo upės plotas </s>
+<s> uralo upės plotis </s>
+<s> uralo upės potvyniai </s>
+<s> uralo upės rėvos </s>
+<s> uralo upės salos </s>
+<s> uralo upės salpa </s>
+<s> uralo upės santaka </s>
+<s> uralo upės santakos </s>
+<s> uralo upės slėniai </s>
+<s> uralo upės slėnis </s>
+<s> uralo upės sraunumas </s>
+<s> uralo upės srovės </s>
+<s> uralo upės teka per valstybes </s>
+<s> uralo upės tiltai </s>
+<s> uralo upės tėkmė </s>
+<s> uralo upės uostai </s>
+<s> uralo upės vaga </s>
+<s> uralo upės vagos plotis </s>
+<s> uralo upės vaizdai </s>
+<s> uralo upės vandens temperatūra </s>
+<s> uralo upės vidutinis debitas </s>
+<s> uralo upės vidutinė vandens temperatūra </s>
+<s> uralo upės žemupys </s>
+<s> uralo upės žiotys </s>
+<s> uralo upės žuvys </s>
+<s> uralo upę prasideda </s>
+<s> uralo vaga </s>
+<s> uralo vagos plotis </s>
+<s> uralo vaizdai </s>
+<s> uralo vaizdai </s>
+<s> uralo vandens temperatūra </s>
+<s> uralo vidutinis debitas </s>
+<s> uralo vidutinė vandens temperatūra </s>
+<s> uralo žemupys </s>
+<s> uralo žemėlapis </s>
+<s> uralo žiotys </s>
+<s> uralo žuvys </s>
+<s> uralą prasideda </s>
+<s> vatikanas susikūrė </s>
+<s> vatikanas žemėlapyje </s>
+<s> vatikano bendrasis vidaus produktas </s>
+<s> vatikano didžiausi miestai </s>
+<s> vatikano ekonomika </s>
+<s> vatikano ežerai </s>
+<s> vatikano gamta </s>
+<s> vatikano gyventojų skaičius </s>
+<s> vatikano herbas </s>
+<s> vatikano istorija </s>
+<s> vatikano jūrų uostai </s>
+<s> vatikano kalba </s>
+<s> vatikano kalbos </s>
+<s> vatikano karai </s>
+<s> vatikano karaliai </s>
+<s> vatikano kraštovaizdis </s>
+<s> vatikano kultūra </s>
+<s> vatikano kultūros objektai </s>
+<s> vatikano kurortai </s>
+<s> vatikano nepriklausomybė </s>
+<s> vatikano nuotraukos </s>
+<s> vatikano oro uostai </s>
+<s> vatikano pinigai </s>
+<s> vatikano plotas </s>
+<s> vatikano politinė santvarka </s>
+<s> vatikano pragvenimo lygis </s>
+<s> vatikano pramonė </s>
+<s> vatikano sostinė </s>
+<s> vatikano tautos </s>
+<s> vatikano universitetai </s>
+<s> vatikano upės </s>
+<s> vatikano vaizdai </s>
+<s> vatikano valdovai </s>
+<s> vatikano vėliava </s>
+<s> vatikano žemėlapis </s>
+<s> vašingtonas įkurtas </s>
+<s> vašingtonas žemėlapyje </s>
+<s> vašingtono gyventojų skaičius </s>
+<s> vašingtono gyventojų tankis </s>
+<s> vašingtono istorija </s>
+<s> vašingtono lankytinos vietos </s>
+<s> vašingtono muziejai </s>
+<s> vašingtono nuotraukos </s>
+<s> vašingtono plotas </s>
+<s> vašingtono transportas </s>
+<s> vašingtono vaizdai </s>
+<s> vašingtono žemėlapis </s>
+<s> viduržemio jūra skalauja </s>
+<s> viduržemio jūros amžius </s>
+<s> viduržemio jūros archipelagai </s>
+<s> viduržemio jūros audros </s>
+<s> viduržemio jūros augalija </s>
+<s> viduržemio jūros bangos </s>
+<s> viduržemio jūros bangų aukštis </s>
+<s> viduržemio jūros baseinas </s>
+<s> viduržemio jūros besiribojančios valstybės </s>
+<s> viduržemio jūros biomasė </s>
+<s> viduržemio jūros cunamis </s>
+<s> viduržemio jūros didžiausios salos </s>
+<s> viduržemio jūros dugnas </s>
+<s> viduržemio jūros dugno reljefas </s>
+<s> viduržemio jūros giliausia vieta </s>
+<s> viduržemio jūros giliausias taškas </s>
+<s> viduržemio jūros gylis </s>
+<s> viduržemio jūros gyvūnija </s>
+<s> viduržemio jūros ilgis </s>
+<s> viduržemio jūros intakai </s>
+<s> viduržemio jūros ištekliai </s>
+<s> viduržemio jūros klimatas </s>
+<s> viduržemio jūros ledas </s>
+<s> viduržemio jūros ledo storis </s>
+<s> viduržemio jūros lygio svyravimai </s>
+<s> viduržemio jūros nuotraukos </s>
+<s> viduržemio jūros oro temperatūra </s>
+<s> viduržemio jūros pakrantės </s>
+<s> viduržemio jūros pakrantės ilgis </s>
+<s> viduržemio jūros pakrančių valstybės </s>
+<s> viduržemio jūros plotas </s>
+<s> viduržemio jūros plotis </s>
+<s> viduržemio jūros ribos </s>
+<s> viduržemio jūros salos </s>
+<s> viduržemio jūros salynai </s>
+<s> viduržemio jūros salų plotas </s>
+<s> viduržemio jūros srovės </s>
+<s> viduržemio jūros sąsiauriai </s>
+<s> viduržemio jūros tūris </s>
+<s> viduržemio jūros uostai </s>
+<s> viduržemio jūros upių žiotys </s>
+<s> viduržemio jūros upės </s>
+<s> viduržemio jūros vaizdai </s>
+<s> viduržemio jūros vandens masė </s>
+<s> viduržemio jūros vandens spalva </s>
+<s> viduržemio jūros vandens sūrumas </s>
+<s> viduržemio jūros vandens temperatūra </s>
+<s> viduržemio jūros vidutinis gylis </s>
+<s> viduržemio jūros vidutinė oro temperatūra </s>
+<s> viduržemio jūros vidutinė vandens temperatūra </s>
+<s> viduržemio jūros įlankos </s>
+<s> viduržemio jūros žuvys </s>
+<s> viduržemio jūrą supa valstybės </s>
+<s> vietnamas susikūrė </s>
+<s> vietnamas žemėlapyje </s>
+<s> vietnamo bendrasis vidaus produktas </s>
+<s> vietnamo didžiausi miestai </s>
+<s> vietnamo ekonomika </s>
+<s> vietnamo ežerai </s>
+<s> vietnamo gamta </s>
+<s> vietnamo gyventojų skaičius </s>
+<s> vietnamo herbas </s>
+<s> vietnamo istorija </s>
+<s> vietnamo jūrų uostai </s>
+<s> vietnamo kalba </s>
+<s> vietnamo kalbos </s>
+<s> vietnamo karai </s>
+<s> vietnamo karaliai </s>
+<s> vietnamo kraštovaizdis </s>
+<s> vietnamo kultūra </s>
+<s> vietnamo kultūros objektai </s>
+<s> vietnamo kurortai </s>
+<s> vietnamo nepriklausomybė </s>
+<s> vietnamo nuotraukos </s>
+<s> vietnamo oro uostai </s>
+<s> vietnamo pinigai </s>
+<s> vietnamo plotas </s>
+<s> vietnamo politinė santvarka </s>
+<s> vietnamo pragvenimo lygis </s>
+<s> vietnamo pramonė </s>
+<s> vietnamo sostinė </s>
+<s> vietnamo tautos </s>
+<s> vietnamo universitetai </s>
+<s> vietnamo upės </s>
+<s> vietnamo vaizdai </s>
+<s> vietnamo valdovai </s>
+<s> vietnamo vėliava </s>
+<s> vietnamo žemėlapis </s>
+<s> viktorijos krioklio nuotraukos </s>
+<s> viktorijos krioklio vaizdai </s>
+<s> viktorijos nuotraukos </s>
+<s> viktorijos vaizdai </s>
+<s> vilniaus gyventojų skaičius </s>
+<s> vilniaus gyventojų tankis </s>
+<s> vilniaus istorija </s>
+<s> vilniaus lankytinos vietos </s>
+<s> vilniaus muziejai </s>
+<s> vilniaus nuotraukos </s>
+<s> vilniaus plotas </s>
+<s> vilniaus transportas </s>
+<s> vilniaus vaizdai </s>
+<s> vilniaus žemėlapis </s>
+<s> vilnius įkurtas </s>
+<s> vilnius žemėlapyje </s>
+<s> zambezė maitina </s>
+<s> zambezė užlieja pievas </s>
+<s> zambezėje neršia </s>
+<s> zambezėje veisiasi </s>
+<s> zambezės amžius </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> zambezės augalija </s>
+<s> zambezės aukštupys </s>
+<s> zambezės baseinas </s>
+<s> zambezės baseinas ribojasi </s>
+<s> zambezės baseino plotas </s>
+<s> zambezės bioįvairovė </s>
+<s> zambezės debitas </s>
+<s> zambezės dešinieji intakai </s>
+<s> zambezės dugnas </s>
+<s> zambezės giliausia vieta </s>
+<s> zambezės gražiausios vietos </s>
+<s> zambezės gylis </s>
+<s> zambezės gyvūnija </s>
+<s> zambezės hidroelektrinės </s>
+<s> zambezės ilgiausi intakai </s>
+<s> zambezės ilgiausieji intakai </s>
+<s> zambezės ilgis </s>
+<s> zambezės intakai </s>
+<s> zambezės ištekliai </s>
+<s> zambezės kairieji intakai </s>
+<s> zambezės krantai </s>
+<s> zambezės krantas </s>
+<s> zambezės ledas </s>
+<s> zambezės ledo danga </s>
+<s> zambezės ledo storis </s>
+<s> zambezės ledonešis </s>
+<s> zambezės ledų sangrūdos </s>
+<s> zambezės lygio svyravimai </s>
+<s> zambezės maksimalus debitas </s>
+<s> zambezės minimalus debitas </s>
+<s> zambezės nuolydis </s>
+<s> zambezės nuotraukos </s>
+<s> zambezės nuotėkis </s>
+<s> zambezės plotas </s>
+<s> zambezės plotis </s>
+<s> zambezės potvyniai </s>
+<s> zambezės rėvos </s>
+<s> zambezės salos </s>
+<s> zambezės salpa </s>
+<s> zambezės santaka </s>
+<s> zambezės santakos </s>
+<s> zambezės slėniai </s>
+<s> zambezės slėnis </s>
+<s> zambezės sraunumas </s>
+<s> zambezės srovės </s>
+<s> zambezės teka per valstybes </s>
+<s> zambezės tiltai </s>
+<s> zambezės tėkmė </s>
+<s> zambezės uostai </s>
+<s> zambezės upė maitina </s>
+<s> zambezės upė užlieja pievas </s>
+<s> zambezės upėje neršia </s>
+<s> zambezės upėje veisiasi </s>
+<s> zambezės upės amžius </s>
+<s> zambezės upės apsemiamos teritorijos </s>
+<s> zambezės upės augalija </s>
+<s> zambezės upės aukštupys </s>
+<s> zambezės upės baseinas </s>
+<s> zambezės upės baseinas ribojasi </s>
+<s> zambezės upės baseino plotas </s>
+<s> zambezės upės bioįvairovė </s>
+<s> zambezės upės debitas </s>
+<s> zambezės upės dešinieji intakai </s>
+<s> zambezės upės dugnas </s>
+<s> zambezės upės giliausia vieta </s>
+<s> zambezės upės gražiausios vietos </s>
+<s> zambezės upės gylis </s>
+<s> zambezės upės gyvūnija </s>
+<s> zambezės upės hidroelektrinės </s>
+<s> zambezės upės ilgiausi intakai </s>
+<s> zambezės upės ilgiausieji intakai </s>
+<s> zambezės upės ilgis </s>
+<s> zambezės upės intakai </s>
+<s> zambezės upės ištekliai </s>
+<s> zambezės upės kairieji intakai </s>
+<s> zambezės upės krantai </s>
+<s> zambezės upės krantas </s>
+<s> zambezės upės ledas </s>
+<s> zambezės upės ledo danga </s>
+<s> zambezės upės ledo storis </s>
+<s> zambezės upės ledonešis </s>
+<s> zambezės upės ledų sangrūdos </s>
+<s> zambezės upės lygio svyravimai </s>
+<s> zambezės upės maksimalus debitas </s>
+<s> zambezės upės minimalus debitas </s>
+<s> zambezės upės nuolydis </s>
+<s> zambezės upės nuotraukos </s>
+<s> zambezės upės nuotėkis </s>
+<s> zambezės upės plotas </s>
+<s> zambezės upės plotis </s>
+<s> zambezės upės potvyniai </s>
+<s> zambezės upės rėvos </s>
+<s> zambezės upės salos </s>
+<s> zambezės upės salpa </s>
+<s> zambezės upės santaka </s>
+<s> zambezės upės santakos </s>
+<s> zambezės upės slėniai </s>
+<s> zambezės upės slėnis </s>
+<s> zambezės upės sraunumas </s>
+<s> zambezės upės srovės </s>
+<s> zambezės upės teka per valstybes </s>
+<s> zambezės upės tiltai </s>
+<s> zambezės upės tėkmė </s>
+<s> zambezės upės uostai </s>
+<s> zambezės upės vaga </s>
+<s> zambezės upės vagos plotis </s>
+<s> zambezės upės vaizdai </s>
+<s> zambezės upės vandens temperatūra </s>
+<s> zambezės upės vidutinis debitas </s>
+<s> zambezės upės vidutinė vandens temperatūra </s>
+<s> zambezės upės žemupys </s>
+<s> zambezės upės žiotys </s>
+<s> zambezės upės žuvys </s>
+<s> zambezės upę prasideda </s>
+<s> zambezės vaga </s>
+<s> zambezės vagos plotis </s>
+<s> zambezės vaizdai </s>
+<s> zambezės vandens temperatūra </s>
+<s> zambezės vidutinis debitas </s>
+<s> zambezės vidutinė vandens temperatūra </s>
+<s> zambezės žemupys </s>
+<s> zambezės žiotys </s>
+<s> zambezės žuvys </s>
+<s> zambezę prasideda </s>
+<s> zambija susikūrė </s>
+<s> zambija žemėlapyje </s>
+<s> zambijos bendrasis vidaus produktas </s>
+<s> zambijos didžiausi miestai </s>
+<s> zambijos ekonomika </s>
+<s> zambijos ežerai </s>
+<s> zambijos gamta </s>
+<s> zambijos gyventojų skaičius </s>
+<s> zambijos herbas </s>
+<s> zambijos istorija </s>
+<s> zambijos jūrų uostai </s>
+<s> zambijos kalba </s>
+<s> zambijos kalbos </s>
+<s> zambijos karai </s>
+<s> zambijos karaliai </s>
+<s> zambijos kraštovaizdis </s>
+<s> zambijos kultūra </s>
+<s> zambijos kultūros objektai </s>
+<s> zambijos kurortai </s>
+<s> zambijos nepriklausomybė </s>
+<s> zambijos nuotraukos </s>
+<s> zambijos oro uostai </s>
+<s> zambijos pinigai </s>
+<s> zambijos plotas </s>
+<s> zambijos politinė santvarka </s>
+<s> zambijos pragvenimo lygis </s>
+<s> zambijos pramonė </s>
+<s> zambijos sostinė </s>
+<s> zambijos tautos </s>
+<s> zambijos universitetai </s>
+<s> zambijos upės </s>
+<s> zambijos vaizdai </s>
+<s> zambijos valdovai </s>
+<s> zambijos vėliava </s>
+<s> zambijos žemėlapis </s>
+<s> zimbabvė susikūrė </s>
+<s> zimbabvė žemėlapyje </s>
+<s> zimbabvės bendrasis vidaus produktas </s>
+<s> zimbabvės didžiausi miestai </s>
+<s> zimbabvės ekonomika </s>
+<s> zimbabvės ežerai </s>
+<s> zimbabvės gamta </s>
+<s> zimbabvės gyventojų skaičius </s>
+<s> zimbabvės herbas </s>
+<s> zimbabvės istorija </s>
+<s> zimbabvės jūrų uostai </s>
+<s> zimbabvės kalba </s>
+<s> zimbabvės kalbos </s>
+<s> zimbabvės karai </s>
+<s> zimbabvės karaliai </s>
+<s> zimbabvės kraštovaizdis </s>
+<s> zimbabvės kultūra </s>
+<s> zimbabvės kultūros objektai </s>
+<s> zimbabvės kurortai </s>
+<s> zimbabvės nepriklausomybė </s>
+<s> zimbabvės nuotraukos </s>
+<s> zimbabvės oro uostai </s>
+<s> zimbabvės pinigai </s>
+<s> zimbabvės plotas </s>
+<s> zimbabvės politinė santvarka </s>
+<s> zimbabvės pragvenimo lygis </s>
+<s> zimbabvės pramonė </s>
+<s> zimbabvės sostinė </s>
+<s> zimbabvės tautos </s>
+<s> zimbabvės universitetai </s>
+<s> zimbabvės upės </s>
+<s> zimbabvės vaizdai </s>
+<s> zimbabvės valdovai </s>
+<s> zimbabvės vėliava </s>
+<s> zimbabvės žemėlapis </s>
+<s> apie afrikos žemyną </s>
+<s> apie afriką </s>
+<s> apie airiją </s>
+<s> apie aliaską </s>
+<s> apie alpes </s>
+<s> apie alpių kalnus </s>
+<s> apie amaną </s>
+<s> apie amazonės upę </s>
+<s> apie amazonę </s>
+<s> apie amerikos piramides </s>
+<s> apie amerikos žemyną </s>
+<s> apie ameriką </s>
+<s> apie anchelio krioklį </s>
+<s> apie anchelį </s>
+<s> apie andus </s>
+<s> apie andų kalnus </s>
+<s> apie angkorą </s>
+<s> apie angliją </s>
+<s> apie antarktidos žemyną </s>
+<s> apie antarktidą </s>
+<s> apie arkties vandenyną </s>
+<s> apie atlanto vandenyną </s>
+<s> apie atoną </s>
+<s> apie atėnus </s>
+<s> apie australijos žemyną </s>
+<s> apie australiją </s>
+<s> apie azijos žemyną </s>
+<s> apie aziją </s>
+<s> apie baikalo ežerą </s>
+<s> apie baikalą </s>
+<s> apie baltijos jūrą </s>
+<s> apie bojoma </s>
+<s> apie bojoma krioklį </s>
+<s> apie braziliją </s>
+<s> apie chefreno piramidę </s>
+<s> apie cheopso piramidę </s>
+<s> apie delį </s>
+<s> apie didįjį kanjoną </s>
+<s> apie didžiąja kinų sieną </s>
+<s> apie didžiąją kinijos sieną </s>
+<s> apie dubliną </s>
+<s> apie džemės didžiąją mečetę </s>
+<s> apie egipto piramides </s>
+<s> apie egiptą </s>
+<s> apie ekvadorą </s>
+<s> apie eurazijos žemyną </s>
+<s> apie euraziją </s>
+<s> apie europos žemyną </s>
+<s> apie europą </s>
+<s> apie faraonų kapavietes </s>
+<s> apie gango upę </s>
+<s> apie gangą </s>
+<s> apie gavarni </s>
+<s> apie gavarni krioklį </s>
+<s> apie goktos krioklį </s>
+<s> apie goktą </s>
+<s> apie graikiją </s>
+<s> apie himalajus </s>
+<s> apie himalajų kalnus </s>
+<s> apie igvasu </s>
+<s> apie igvasu krioklį </s>
+<s> apie indijos vandenyną </s>
+<s> apie indiją </s>
+<s> apie italiją </s>
+<s> apie jav </s>
+<s> apie japoniją </s>
+<s> apie jogo </s>
+<s> apie jogo krioklį </s>
+<s> apie jordaniją </s>
+<s> apie josemitį </s>
+<s> apie josemičio krioklį </s>
+<s> apie kairą </s>
+<s> apie kambodžą </s>
+<s> apie karibų jūrą </s>
+<s> apie kernavę </s>
+<s> apie kilimandžarą </s>
+<s> apie kiniją </s>
+<s> apie kinų sieną </s>
+<s> apie kongą </s>
+<s> apie korkovadą </s>
+<s> apie lietuvą </s>
+<s> apie limą </s>
+<s> apie londoną </s>
+<s> apie malį </s>
+<s> apie maskvą </s>
+<s> apie mechiką </s>
+<s> apie meksiką </s>
+<s> apie meteoros vienuolynus </s>
+<s> apie mikerino piramidę </s>
+<s> apie niagaros krioklį </s>
+<s> apie niagaros upę </s>
+<s> apie niagarą </s>
+<s> apie niagarą </s>
+<s> apie nilo upę </s>
+<s> apie nilą </s>
+<s> apie niujorką </s>
+<s> apie norvegiją </s>
+<s> apie oslą </s>
+<s> apie pekiną </s>
+<s> apie peru </s>
+<s> apie pietų amerikos žemyną </s>
+<s> apie pietų ameriką </s>
+<s> apie pietų vandenyną </s>
+<s> apie pnompenį </s>
+<s> apie ramnefjelsfoseno krioklį </s>
+<s> apie ramnefjelsfoseną </s>
+<s> apie ramųjį vandenyną </s>
+<s> apie rio de žaneirą </s>
+<s> apie romą </s>
+<s> apie rusiją </s>
+<s> apie simono petro vienuolyną </s>
+<s> apie stounhendžą </s>
+<s> apie tadžmahalą </s>
+<s> apie tailandą </s>
+<s> apie tanzaniją </s>
+<s> apie tel avivą </s>
+<s> apie tibetą </s>
+<s> apie titikakos ežerą </s>
+<s> apie titikaką </s>
+<s> apie tokiją </s>
+<s> apie tugelos krioklį </s>
+<s> apie tugelą </s>
+<s> apie ugandą </s>
+<s> apie uluru </s>
+<s> apie uralo kalnus </s>
+<s> apie uralo upę </s>
+<s> apie uralą </s>
+<s> apie uralą </s>
+<s> apie vatikaną </s>
+<s> apie vašingtoną </s>
+<s> apie viduržemio jūrą </s>
+<s> apie vietnamą </s>
+<s> apie viktorijos krioklį </s>
+<s> apie viktoriją </s>
+<s> apie vilnių </s>
+<s> apie zambezės upę </s>
+<s> apie zambezę </s>
+<s> apie zambiją </s>
+<s> apie zimbabvę </s>
+<s> apie šarm el šeichą </s>
+<s> apie šiaurės amerikos žemyną </s>
+<s> apie šiaurės ameriką </s>
+<s> ar užšąla amazonė </s>
+<s> ar užšąla amazonės upė </s>
+<s> ar užšąla baikalas </s>
+<s> ar užšąla baikalo ežeras </s>
+<s> ar užšąla baltijos jūra </s>
+<s> ar užšąla gangas </s>
+<s> ar užšąla gango upė </s>
+<s> ar užšąla karibų jūra </s>
+<s> ar užšąla niagara </s>
+<s> ar užšąla niagaros upė </s>
+<s> ar užšąla nilas </s>
+<s> ar užšąla nilo upė </s>
+<s> ar užšąla titikaka </s>
+<s> ar užšąla titikakos ežeras </s>
+<s> ar užšąla uralas </s>
+<s> ar užšąla uralo upė </s>
+<s> ar užšąla viduržemio jūra </s>
+<s> ar užšąla zambezė </s>
+<s> ar užšąla zambezės upė </s>
+<s> dešinieji amazonės intakai </s>
+<s> dešinieji amazonės upės intakai </s>
+<s> dešinieji gango intakai </s>
+<s> dešinieji gango upės intakai </s>
+<s> dešinieji niagaros intakai </s>
+<s> dešinieji niagaros upės intakai </s>
+<s> dešinieji nilo intakai </s>
+<s> dešinieji nilo upės intakai </s>
+<s> dešinieji uralo intakai </s>
+<s> dešinieji uralo upės intakai </s>
+<s> dešinieji zambezės intakai </s>
+<s> dešinieji zambezės upės intakai </s>
+<s> didžiausi amazonės upę potvyniai </s>
+<s> didžiausi amazonę potvyniai </s>
+<s> didžiausi europos ežerai </s>
+<s> didžiausi europos miestai </s>
+<s> didžiausi gango upę potvyniai </s>
+<s> didžiausi gangą potvyniai </s>
+<s> didžiausi niagaros upę potvyniai </s>
+<s> didžiausi niagarą potvyniai </s>
+<s> didžiausi nilo upę potvyniai </s>
+<s> didžiausi nilą potvyniai </s>
+<s> didžiausi uralo upę potvyniai </s>
+<s> didžiausi uralą potvyniai </s>
+<s> didžiausi zambezės upę potvyniai </s>
+<s> didžiausi zambezę potvyniai </s>
+<s> didžiausi pasaulio ežerai </s>
+<s> didžiausi pasaulio miestai </s>
+<s> didžiausi pasaulio statiniai </s>
+<s> didžiausias europos ežeras </s>
+<s> didžiausias pasaulio ežeras </s>
+<s> didžiausios europos jūros </s>
+<s> didžiausios europos valstybės </s>
+<s> didžiausios pasaulio jūros </s>
+<s> didžiausios pasaulio valstybės </s>
+<s> giliausi europos ežerai </s>
+<s> giliausi pasaulio ežerai </s>
+<s> giliausia pasaulio jūra </s>
+<s> giliausias europos ežeras </s>
+<s> giliausias pasaulio ežeras </s>
+<s> giliausios pasaulio jūros </s>
+<s> gražiausios amazonės upės vietos </s>
+<s> gražiausios amazonės vietos </s>
+<s> gražiausios baikalo ežero vietos </s>
+<s> gražiausios baikalo vietos </s>
+<s> gražiausios gango upės vietos </s>
+<s> gražiausios gango vietos </s>
+<s> gražiausios niagaros upės vietos </s>
+<s> gražiausios niagaros vietos </s>
+<s> gražiausios nilo upės vietos </s>
+<s> gražiausios nilo vietos </s>
+<s> gražiausios titikakos ežero vietos </s>
+<s> gražiausios titikakos vietos </s>
+<s> gražiausios uralo upės vietos </s>
+<s> gražiausios uralo vietos </s>
+<s> gražiausios zambezės upės vietos </s>
+<s> gražiausios zambezės vietos </s>
+<s> ilgiausi amazonės intakai </s>
+<s> ilgiausi amazonės upės intakai </s>
+<s> ilgiausi gango intakai </s>
+<s> ilgiausi gango upės intakai </s>
+<s> ilgiausi niagaros intakai </s>
+<s> ilgiausi niagaros upės intakai </s>
+<s> ilgiausi nilo intakai </s>
+<s> ilgiausi nilo upės intakai </s>
+<s> ilgiausi uralo intakai </s>
+<s> ilgiausi uralo upės intakai </s>
+<s> ilgiausi zambezės intakai </s>
+<s> ilgiausi zambezės upės intakai </s>
+<s> ilgiausia europos upė </s>
+<s> ilgiausia pasaulio upė </s>
+<s> ilgiausieji amazonės intakai </s>
+<s> ilgiausieji amazonės upės intakai </s>
+<s> ilgiausieji gango intakai </s>
+<s> ilgiausieji gango upės intakai </s>
+<s> ilgiausieji niagaros intakai </s>
+<s> ilgiausieji niagaros upės intakai </s>
+<s> ilgiausieji nilo intakai </s>
+<s> ilgiausieji nilo upės intakai </s>
+<s> ilgiausieji uralo intakai </s>
+<s> ilgiausieji uralo upės intakai </s>
+<s> ilgiausieji zambezės intakai </s>
+<s> ilgiausieji zambezės upės intakai </s>
+<s> ilgiausios pasaulio upės </s>
+<s> iš amazonės išteka </s>
+<s> iš amazonės upės išteka </s>
+<s> iš gango išteka </s>
+<s> iš gango upės išteka </s>
+<s> iš niagaros išteka </s>
+<s> iš niagaros upės išteka </s>
+<s> iš nilo išteka </s>
+<s> iš nilo upės išteka </s>
+<s> iš uralo išteka </s>
+<s> iš uralo upės išteka </s>
+<s> iš zambezės išteka </s>
+<s> iš zambezės upės išteka </s>
+<s> kada pradėjo formuotis baikalas </s>
+<s> kada pradėjo formuotis baikalo ežeras </s>
+<s> kada pradėjo formuotis titikaka </s>
+<s> kada pradėjo formuotis titikakos ežeras </s>
+<s> kada susiformavo amazonė </s>
+<s> kada susiformavo amazonės upė </s>
+<s> kada susiformavo baikalas </s>
+<s> kada susiformavo baikalo ežeras </s>
+<s> kada susiformavo baltijos jūra </s>
+<s> kada susiformavo gangas </s>
+<s> kada susiformavo gango upė </s>
+<s> kada susiformavo karibų jūra </s>
+<s> kada susiformavo niagara </s>
+<s> kada susiformavo niagaros upė </s>
+<s> kada susiformavo nilas </s>
+<s> kada susiformavo nilo upė </s>
+<s> kada susiformavo titikaka </s>
+<s> kada susiformavo titikakos ežeras </s>
+<s> kada susiformavo uralas </s>
+<s> kada susiformavo uralo upė </s>
+<s> kada susiformavo viduržemio jūra </s>
+<s> kada susiformavo zambezė </s>
+<s> kada susiformavo zambezės upė </s>
+<s> kada užšąla amazonė </s>
+<s> kada užšąla amazonės upė </s>
+<s> kada užšąla baikalas </s>
+<s> kada užšąla baikalo ežeras </s>
+<s> kada užšąla gangas </s>
+<s> kada užšąla gango upė </s>
+<s> kada užšąla niagara </s>
+<s> kada užšąla niagaros upė </s>
+<s> kada užšąla nilas </s>
+<s> kada užšąla nilo upė </s>
+<s> kada užšąla titikaka </s>
+<s> kada užšąla titikakos ežeras </s>
+<s> kada užšąla uralas </s>
+<s> kada užšąla uralo upė </s>
+<s> kada užšąla zambezė </s>
+<s> kada užšąla zambezės upė </s>
+<s> kaip nuvykti prie airijos </s>
+<s> kaip nuvykti prie aliaskos </s>
+<s> kaip nuvykti prie alpių </s>
+<s> kaip nuvykti prie alpių kalnų </s>
+<s> kaip nuvykti prie amano </s>
+<s> kaip nuvykti prie amerikos piramidžių </s>
+<s> kaip nuvykti prie andų </s>
+<s> kaip nuvykti prie andų kalnų </s>
+<s> kaip nuvykti prie angkoro </s>
+<s> kaip nuvykti prie anglijos </s>
+<s> kaip nuvykti prie atono </s>
+<s> kaip nuvykti prie atėnų </s>
+<s> kaip nuvykti prie brazilijos </s>
+<s> kaip nuvykti prie chefreno piramidės </s>
+<s> kaip nuvykti prie cheopso piramidės </s>
+<s> kaip nuvykti prie delio </s>
+<s> kaip nuvykti prie didžiojo kanjono </s>
+<s> kaip nuvykti prie didžiosios kinijos sienos </s>
+<s> kaip nuvykti prie didžiosios kinų sienos </s>
+<s> kaip nuvykti prie dublino </s>
+<s> kaip nuvykti prie džemės didžiosios mečetės </s>
+<s> kaip nuvykti prie egipto </s>
+<s> kaip nuvykti prie egipto piramidžių </s>
+<s> kaip nuvykti prie ekvadoro </s>
+<s> kaip nuvykti prie faraonų kapaviečių </s>
+<s> kaip nuvykti prie graikijos </s>
+<s> kaip nuvykti prie himalajų </s>
+<s> kaip nuvykti prie himalajų kalnų </s>
+<s> kaip nuvykti prie indijos </s>
+<s> kaip nuvykti prie italijos </s>
+<s> kaip nuvykti prie jav </s>
+<s> kaip nuvykti prie japonijos </s>
+<s> kaip nuvykti prie jordanijos </s>
+<s> kaip nuvykti prie kairo </s>
+<s> kaip nuvykti prie kambodžos </s>
+<s> kaip nuvykti prie kernavės </s>
+<s> kaip nuvykti prie kilimandžaro </s>
+<s> kaip nuvykti prie kinijos </s>
+<s> kaip nuvykti prie kinų sienos </s>
+<s> kaip nuvykti prie kongo </s>
+<s> kaip nuvykti prie korkovado </s>
+<s> kaip nuvykti prie lietuvos </s>
+<s> kaip nuvykti prie limos </s>
+<s> kaip nuvykti prie londono </s>
+<s> kaip nuvykti prie malio </s>
+<s> kaip nuvykti prie maskvos </s>
+<s> kaip nuvykti prie mechiko </s>
+<s> kaip nuvykti prie meksikos </s>
+<s> kaip nuvykti prie meteoros vienuolynų </s>
+<s> kaip nuvykti prie mikerino piramidės </s>
+<s> kaip nuvykti prie niujorko </s>
+<s> kaip nuvykti prie norvegijos </s>
+<s> kaip nuvykti prie oslo </s>
+<s> kaip nuvykti prie pekino </s>
+<s> kaip nuvykti prie peru </s>
+<s> kaip nuvykti prie pnompenio </s>
+<s> kaip nuvykti prie rio de žaneiro </s>
+<s> kaip nuvykti prie romos </s>
+<s> kaip nuvykti prie rusijos </s>
+<s> kaip nuvykti prie simono petro vienuolyno </s>
+<s> kaip nuvykti prie stounhendžo </s>
+<s> kaip nuvykti prie tadžmahalo </s>
+<s> kaip nuvykti prie tailando </s>
+<s> kaip nuvykti prie tanzanijos </s>
+<s> kaip nuvykti prie tel avivo </s>
+<s> kaip nuvykti prie tibeto </s>
+<s> kaip nuvykti prie tokijo </s>
+<s> kaip nuvykti prie ugandos </s>
+<s> kaip nuvykti prie uluru </s>
+<s> kaip nuvykti prie uralo </s>
+<s> kaip nuvykti prie uralo kalnų </s>
+<s> kaip nuvykti prie vatikano </s>
+<s> kaip nuvykti prie vašingtono </s>
+<s> kaip nuvykti prie vietnamo </s>
+<s> kaip nuvykti prie vilniaus </s>
+<s> kaip nuvykti prie zambijos </s>
+<s> kaip nuvykti prie zimbabvės </s>
+<s> kaip nuvykti prie šarm el šeicho </s>
+<s> kaip nuvykti į airiją </s>
+<s> kaip nuvykti į aliaską </s>
+<s> kaip nuvykti į alpes </s>
+<s> kaip nuvykti į alpių kalnus </s>
+<s> kaip nuvykti į amaną </s>
+<s> kaip nuvykti į amerikos piramides </s>
+<s> kaip nuvykti į andus </s>
+<s> kaip nuvykti į andų kalnus </s>
+<s> kaip nuvykti į angkorą </s>
+<s> kaip nuvykti į angliją </s>
+<s> kaip nuvykti į atoną </s>
+<s> kaip nuvykti į atėnus </s>
+<s> kaip nuvykti į braziliją </s>
+<s> kaip nuvykti į chefreno piramidę </s>
+<s> kaip nuvykti į cheopso piramidę </s>
+<s> kaip nuvykti į delį </s>
+<s> kaip nuvykti į didįjį kanjoną </s>
+<s> kaip nuvykti į dubliną </s>
+<s> kaip nuvykti į džemės didžiąją mečetę </s>
+<s> kaip nuvykti į egipto piramides </s>
+<s> kaip nuvykti į egiptą </s>
+<s> kaip nuvykti į ekvadorą </s>
+<s> kaip nuvykti į faraonų kapavietes </s>
+<s> kaip nuvykti į graikiją </s>
+<s> kaip nuvykti į himalajus </s>
+<s> kaip nuvykti į himalajų kalnus </s>
+<s> kaip nuvykti į indiją </s>
+<s> kaip nuvykti į italiją </s>
+<s> kaip nuvykti į jav </s>
+<s> kaip nuvykti į japoniją </s>
+<s> kaip nuvykti į jordaniją </s>
+<s> kaip nuvykti į kairą </s>
+<s> kaip nuvykti į kambodžą </s>
+<s> kaip nuvykti į kernavę </s>
+<s> kaip nuvykti į kilimandžarą </s>
+<s> kaip nuvykti į kiniją </s>
+<s> kaip nuvykti į kinų sieną </s>
+<s> kaip nuvykti į kongą </s>
+<s> kaip nuvykti į korkovadą </s>
+<s> kaip nuvykti į lietuvą </s>
+<s> kaip nuvykti į limą </s>
+<s> kaip nuvykti į londoną </s>
+<s> kaip nuvykti į malį </s>
+<s> kaip nuvykti į maskvą </s>
+<s> kaip nuvykti į mechiką </s>
+<s> kaip nuvykti į meksiką </s>
+<s> kaip nuvykti į meteoros vienuolynus </s>
+<s> kaip nuvykti į mikerino piramidę </s>
+<s> kaip nuvykti į niujorką </s>
+<s> kaip nuvykti į norvegiją </s>
+<s> kaip nuvykti į oslą </s>
+<s> kaip nuvykti į pekiną </s>
+<s> kaip nuvykti į peru </s>
+<s> kaip nuvykti į pnompenį </s>
+<s> kaip nuvykti į rio de žaneirą </s>
+<s> kaip nuvykti į romą </s>
+<s> kaip nuvykti į rusiją </s>
+<s> kaip nuvykti į simono petro vienuolyną </s>
+<s> kaip nuvykti į stounhendžą </s>
+<s> kaip nuvykti į tadžmahalą </s>
+<s> kaip nuvykti į tailandą </s>
+<s> kaip nuvykti į tanzaniją </s>
+<s> kaip nuvykti į tel avivą </s>
+<s> kaip nuvykti į tibetą </s>
+<s> kaip nuvykti į tokiją </s>
+<s> kaip nuvykti į ugandą </s>
+<s> kaip nuvykti į uluru </s>
+<s> kaip nuvykti į uralo kalnus </s>
+<s> kaip nuvykti į uralą </s>
+<s> kaip nuvykti į vatikaną </s>
+<s> kaip nuvykti į vašingtoną </s>
+<s> kaip nuvykti į vietnamą </s>
+<s> kaip nuvykti į vilnių </s>
+<s> kaip nuvykti į zambiją </s>
+<s> kaip nuvykti į zimbabvę </s>
+<s> kaip nuvykti į šarm el šeichą </s>
+<s> kairieji amazonės intakai </s>
+<s> kairieji amazonės upės intakai </s>
+<s> kairieji gango intakai </s>
+<s> kairieji gango upės intakai </s>
+<s> kairieji niagaros intakai </s>
+<s> kairieji niagaros upės intakai </s>
+<s> kairieji nilo intakai </s>
+<s> kairieji nilo upės intakai </s>
+<s> kairieji uralo intakai </s>
+<s> kairieji uralo upės intakai </s>
+<s> kairieji zambezės intakai </s>
+<s> kairieji zambezės upės intakai </s>
+<s> kas pastatė amerikos piramides </s>
+<s> kas pastatė angkorą </s>
+<s> kas pastatė chefreno piramidę </s>
+<s> kas pastatė cheopso piramidę </s>
+<s> kas pastatė didžiają kinijos sieną </s>
+<s> kas pastatė didžiają kinų sieną </s>
+<s> kas pastatė džemės didžiąją mečetę </s>
+<s> kas pastatė egipto piramides </s>
+<s> kas pastatė faraonų kapavietes </s>
+<s> kas pastatė kinų sieną </s>
+<s> kas pastatė meteoros vienuolynus </s>
+<s> kas pastatė mikerino piramidę </s>
+<s> kas pastatė simono petro vienuolyną </s>
+<s> kas pastatė stounhendžą </s>
+<s> kas pastatė tadžmahalą </s>
+<s> kas yra afrika </s>
+<s> kas yra afrikos žemynas </s>
+<s> kas yra airija </s>
+<s> kas yra aliaska </s>
+<s> kas yra alpių kalnai </s>
+<s> kas yra alpės </s>
+<s> kas yra amanas </s>
+<s> kas yra amazonė </s>
+<s> kas yra amazonės upė </s>
+<s> kas yra amerika </s>
+<s> kas yra amerikos piramidės </s>
+<s> kas yra amerikos žemynas </s>
+<s> kas yra anchelio krioklys </s>
+<s> kas yra anchelis </s>
+<s> kas yra andai </s>
+<s> kas yra andų kalnai </s>
+<s> kas yra angkoras </s>
+<s> kas yra anglija </s>
+<s> kas yra antarktida </s>
+<s> kas yra antarktidos žemynas </s>
+<s> kas yra arkties vandenynas </s>
+<s> kas yra atlanto vandenynas </s>
+<s> kas yra atonas </s>
+<s> kas yra atėnai </s>
+<s> kas yra australija </s>
+<s> kas yra australijos žemynas </s>
+<s> kas yra azija </s>
+<s> kas yra azijos žemynas </s>
+<s> kas yra baikalas </s>
+<s> kas yra baikalo ežeras </s>
+<s> kas yra baltijos jūra </s>
+<s> kas yra bojoma </s>
+<s> kas yra bojoma krioklys </s>
+<s> kas yra brazilija </s>
+<s> kas yra chefreno piramidė </s>
+<s> kas yra cheopso piramidė </s>
+<s> kas yra delis </s>
+<s> kas yra didysis kanjonas </s>
+<s> kas yra didžioji kinijos siena </s>
+<s> kas yra didžioji kinų siena </s>
+<s> kas yra dublinas </s>
+<s> kas yra džemės didžioji mečetė </s>
+<s> kas yra egiptas </s>
+<s> kas yra egipto piramidės </s>
+<s> kas yra ekvadoras </s>
+<s> kas yra eurazija </s>
+<s> kas yra eurazijos žemynas </s>
+<s> kas yra europa </s>
+<s> kas yra europos žemynas </s>
+<s> kas yra faraonų kapavietės </s>
+<s> kas yra gangas </s>
+<s> kas yra gango upė </s>
+<s> kas yra gavarni </s>
+<s> kas yra gavarni krioklys </s>
+<s> kas yra gokta </s>
+<s> kas yra goktos krioklys </s>
+<s> kas yra graikija </s>
+<s> kas yra himalajai </s>
+<s> kas yra himalajų kalnai </s>
+<s> kas yra igvasu </s>
+<s> kas yra igvasu krioklys </s>
+<s> kas yra indija </s>
+<s> kas yra indijos vandenynas </s>
+<s> kas yra italija </s>
+<s> kas yra jav </s>
+<s> kas yra japonija </s>
+<s> kas yra jogo </s>
+<s> kas yra jogo krioklys </s>
+<s> kas yra jordanija </s>
+<s> kas yra josemitis </s>
+<s> kas yra josemičio krioklys </s>
+<s> kas yra kairas </s>
+<s> kas yra kambodža </s>
+<s> kas yra karibų jūra </s>
+<s> kas yra kernavė </s>
+<s> kas yra kilimandžaras </s>
+<s> kas yra kinija </s>
+<s> kas yra kinų siena </s>
+<s> kas yra kongas </s>
+<s> kas yra korkovadas </s>
+<s> kas yra lietuva </s>
+<s> kas yra lima </s>
+<s> kas yra londonas </s>
+<s> kas yra malis </s>
+<s> kas yra maskva </s>
+<s> kas yra mechikas </s>
+<s> kas yra meksika </s>
+<s> kas yra meteoros vienuolynai </s>
+<s> kas yra mikerino piramidė </s>
+<s> kas yra niagara </s>
+<s> kas yra niagara </s>
+<s> kas yra niagaros krioklys </s>
+<s> kas yra niagaros upė </s>
+<s> kas yra nilas </s>
+<s> kas yra nilo upė </s>
+<s> kas yra niujorkas </s>
+<s> kas yra norvegija </s>
+<s> kas yra oslas </s>
+<s> kas yra pekinas </s>
+<s> kas yra peru </s>
+<s> kas yra pietų amerika </s>
+<s> kas yra pietų amerikos žemynas </s>
+<s> kas yra pietų vandenynas </s>
+<s> kas yra pnompenis </s>
+<s> kas yra ramnefjelsfosenas </s>
+<s> kas yra ramnefjelsfoseno krioklys </s>
+<s> kas yra ramusis vandenynas </s>
+<s> kas yra rio de žaneiras </s>
+<s> kas yra roma </s>
+<s> kas yra rusija </s>
+<s> kas yra simono petro vienuolynas </s>
+<s> kas yra stounhendžas </s>
+<s> kas yra tadžmahalas </s>
+<s> kas yra tailandas </s>
+<s> kas yra tanzanija </s>
+<s> kas yra tel avivas </s>
+<s> kas yra tibetas </s>
+<s> kas yra titikaka </s>
+<s> kas yra titikakos ežeras </s>
+<s> kas yra tokijas </s>
+<s> kas yra tugela </s>
+<s> kas yra tugelos krioklys </s>
+<s> kas yra uganda </s>
+<s> kas yra uluru </s>
+<s> kas yra uralas </s>
+<s> kas yra uralas </s>
+<s> kas yra uralo kalnai </s>
+<s> kas yra uralo upė </s>
+<s> kas yra vatikanas </s>
+<s> kas yra vašingtonas </s>
+<s> kas yra viduržemio jūra </s>
+<s> kas yra vietnamas </s>
+<s> kas yra viktorija </s>
+<s> kas yra viktorijos krioklys </s>
+<s> kas yra vilnius </s>
+<s> kas yra zambezė </s>
+<s> kas yra zambezės upė </s>
+<s> kas yra zambija </s>
+<s> kas yra zimbabvė </s>
+<s> kas yra šarm el šeichas </s>
+<s> kas yra šiaurės amerika </s>
+<s> kas yra šiaurės amerikos žemynas </s>
+<s> kiek laiko statė amerikos piramides </s>
+<s> kiek laiko statė angkorą </s>
+<s> kiek laiko statė chefreno piramidę </s>
+<s> kiek laiko statė cheopso piramidę </s>
+<s> kiek laiko statė didžiąją kinijos sieną </s>
+<s> kiek laiko statė didžiąją kinų sieną </s>
+<s> kiek laiko statė džemės didžiąją mečetę </s>
+<s> kiek laiko statė egipto piramides </s>
+<s> kiek laiko statė faraonų kapavietes </s>
+<s> kiek laiko statė kinų sieną </s>
+<s> kiek laiko statė meteoros vienuolynus </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kiek laiko statė simono petro vienuolyną </s>
+<s> kiek laiko statė stounhendžą </s>
+<s> kiek laiko statė tadžmahalą </s>
+<s> kiek truko amerikos piramidžių statyba </s>
+<s> kiek truko angkoro statyba </s>
+<s> kiek truko chefreno piramidės statyba </s>
+<s> kiek truko cheopso piramidės statyba </s>
+<s> kiek truko didžiosios kinijos sienos statyba </s>
+<s> kiek truko didžiosios kinų sienos statyba </s>
+<s> kiek truko džemės didžiosios mečetės statyba </s>
+<s> kiek truko egipto piramidžių statyba </s>
+<s> kiek truko faraonų kapaviečių statyba </s>
+<s> kiek truko kinų sienos statyba </s>
+<s> kiek truko meteoros vienuolynų statyba </s>
+<s> kiek truko mikerino piramidės statyba </s>
+<s> kiek truko simono petro vienuolyno statyba </s>
+<s> kiek truko stounhendžo statyba </s>
+<s> kiek truko tadžmahalo statyba </s>
+<s> kiek valstybių yra afrikoje </s>
+<s> kiek valstybių yra afrikos žemyne </s>
+<s> kiek valstybių yra amerikoje </s>
+<s> kiek valstybių yra amerikos žemyne </s>
+<s> kiek valstybių yra antarktidoje </s>
+<s> kiek valstybių yra antarktidos žemyne </s>
+<s> kiek valstybių yra australijoje </s>
+<s> kiek valstybių yra australijos žemyne </s>
+<s> kiek valstybių yra azijoje </s>
+<s> kiek valstybių yra azijos žemyne </s>
+<s> kiek valstybių yra eurazijoje </s>
+<s> kiek valstybių yra eurazijos žemyne </s>
+<s> kiek valstybių yra europoje </s>
+<s> kiek valstybių yra europos žemyne </s>
+<s> kiek valstybių yra pietų amerikoje </s>
+<s> kiek valstybių yra pietų amerikos žemyne </s>
+<s> kiek valstybių yra šiaurės amerikoje </s>
+<s> kiek valstybių yra šiaurės amerikos žemyne </s>
+<s> kiek yra pasaulio žemynų </s>
+<s> kiek yra vandenynų </s>
+<s> kiek žmonių gyvena afrikoje </s>
+<s> kiek žmonių gyvena afrikos žemyne </s>
+<s> kiek žmonių gyvena amerikoje </s>
+<s> kiek žmonių gyvena amerikos žemyne </s>
+<s> kiek žmonių gyvena antarktidoje </s>
+<s> kiek žmonių gyvena antarktidos žemyne </s>
+<s> kiek žmonių gyvena australijoje </s>
+<s> kiek žmonių gyvena australijos žemyne </s>
+<s> kiek žmonių gyvena azijoje </s>
+<s> kiek žmonių gyvena azijos žemyne </s>
+<s> kiek žmonių gyvena eurazijoje </s>
+<s> kiek žmonių gyvena eurazijos žemyne </s>
+<s> kiek žmonių gyvena europoje </s>
+<s> kiek žmonių gyvena europos žemyne </s>
+<s> kiek žmonių gyvena pietų amerikoje </s>
+<s> kiek žmonių gyvena pietų amerikos žemyne </s>
+<s> kiek žmonių gyvena šiaurės amerikoje </s>
+<s> kiek žmonių gyvena šiaurės amerikos žemyne </s>
+<s> kokios valstybės supa arkties vandenyną </s>
+<s> kokios valstybės supa atlanto vandenyną </s>
+<s> kokios valstybės supa baltijos jūrą </s>
+<s> kokios valstybės supa indijos vandenyną </s>
+<s> kokios valstybės supa karibų jūrą </s>
+<s> kokios valstybės supa pietų vandenyną </s>
+<s> kokios valstybės supa ramųjį vandenyną </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra afrika </s>
+<s> kur yra afrikos žemynas </s>
+<s> kur yra airija </s>
+<s> kur yra aliaska </s>
+<s> kur yra alpių kalnai </s>
+<s> kur yra alpės </s>
+<s> kur yra amanas </s>
+<s> kur yra amazonė </s>
+<s> kur yra amazonės upė </s>
+<s> kur yra amerika </s>
+<s> kur yra amerikos piramidės </s>
+<s> kur yra amerikos žemynas </s>
+<s> kur yra anchelio krioklys </s>
+<s> kur yra anchelis </s>
+<s> kur yra andai </s>
+<s> kur yra andų kalnai </s>
+<s> kur yra angkoras </s>
+<s> kur yra anglija </s>
+<s> kur yra antarktida </s>
+<s> kur yra antarktidos žemynas </s>
+<s> kur yra arkties vandenynas </s>
+<s> kur yra atlanto vandenynas </s>
+<s> kur yra atonas </s>
+<s> kur yra atėnai </s>
+<s> kur yra australija </s>
+<s> kur yra australijos žemynas </s>
+<s> kur yra azija </s>
+<s> kur yra azijos žemynas </s>
+<s> kur yra baikalas </s>
+<s> kur yra baikalo ežeras </s>
+<s> kur yra baltijos jūra </s>
+<s> kur yra bojoma </s>
+<s> kur yra bojoma krioklys </s>
+<s> kur yra brazilija </s>
+<s> kur yra chefreno piramidė </s>
+<s> kur yra cheopso piramidė </s>
+<s> kur yra delis </s>
+<s> kur yra didysis kanjonas </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kur yra didžioji kinų siena </s>
+<s> kur yra dublinas </s>
+<s> kur yra džemės didžioji mečetė </s>
+<s> kur yra egiptas </s>
+<s> kur yra egipto piramidės </s>
+<s> kur yra ekvadoras </s>
+<s> kur yra eurazija </s>
+<s> kur yra eurazijos žemynas </s>
+<s> kur yra europa </s>
+<s> kur yra europos žemynas </s>
+<s> kur yra faraonų kapavietės </s>
+<s> kur yra gangas </s>
+<s> kur yra gango upė </s>
+<s> kur yra gavarni </s>
+<s> kur yra gavarni krioklys </s>
+<s> kur yra gokta </s>
+<s> kur yra goktos krioklys </s>
+<s> kur yra graikija </s>
+<s> kur yra himalajai </s>
+<s> kur yra himalajų kalnai </s>
+<s> kur yra igvasu </s>
+<s> kur yra igvasu krioklys </s>
+<s> kur yra indija </s>
+<s> kur yra indijos vandenynas </s>
+<s> kur yra italija </s>
+<s> kur yra jav </s>
+<s> kur yra japonija </s>
+<s> kur yra jogo </s>
+<s> kur yra jogo krioklys </s>
+<s> kur yra jordanija </s>
+<s> kur yra josemitis </s>
+<s> kur yra josemičio krioklys </s>
+<s> kur yra kairas </s>
+<s> kur yra kambodža </s>
+<s> kur yra karibų jūra </s>
+<s> kur yra kernavė </s>
+<s> kur yra kilimandžaras </s>
+<s> kur yra kinija </s>
+<s> kur yra kinų siena </s>
+<s> kur yra kongas </s>
+<s> kur yra korkovadas </s>
+<s> kur yra lietuva </s>
+<s> kur yra lima </s>
+<s> kur yra londonas </s>
+<s> kur yra malis </s>
+<s> kur yra maskva </s>
+<s> kur yra mechikas </s>
+<s> kur yra meksika </s>
+<s> kur yra meteoros vienuolynai </s>
+<s> kur yra mikerino piramidė </s>
+<s> kur yra niagara </s>
+<s> kur yra niagara </s>
+<s> kur yra niagaros krioklys </s>
+<s> kur yra niagaros upė </s>
+<s> kur yra nilas </s>
+<s> kur yra nilo upė </s>
+<s> kur yra niujorkas </s>
+<s> kur yra norvegija </s>
+<s> kur yra oslas </s>
+<s> kur yra pekinas </s>
+<s> kur yra peru </s>
+<s> kur yra pietų amerika </s>
+<s> kur yra pietų amerikos žemynas </s>
+<s> kur yra pietų vandenynas </s>
+<s> kur yra pnompenis </s>
+<s> kur yra ramnefjelsfosenas </s>
+<s> kur yra ramnefjelsfoseno krioklys </s>
+<s> kur yra ramusis vandenynas </s>
+<s> kur yra rio de žaneiras </s>
+<s> kur yra roma </s>
+<s> kur yra rusija </s>
+<s> kur yra simono petro vienuolynas </s>
+<s> kur yra stounhendžas </s>
+<s> kur yra tadžmahalas </s>
+<s> kur yra tailandas </s>
+<s> kur yra tanzanija </s>
+<s> kur yra tel avivas </s>
+<s> kur yra tibetas </s>
+<s> kur yra titikaka </s>
+<s> kur yra titikakos ežeras </s>
+<s> kur yra tokijas </s>
+<s> kur yra tugela </s>
+<s> kur yra tugelos krioklys </s>
+<s> kur yra uganda </s>
+<s> kur yra uluru </s>
+<s> kur yra uralas </s>
+<s> kur yra uralas </s>
+<s> kur yra uralo kalnai </s>
+<s> kur yra uralo upė </s>
+<s> kur yra vatikanas </s>
+<s> kur yra vašingtonas </s>
+<s> kur yra viduržemio jūra </s>
+<s> kur yra vietnamas </s>
+<s> kur yra viktorija </s>
+<s> kur yra viktorijos krioklys </s>
+<s> kur yra vilnius </s>
+<s> kur yra zambezė </s>
+<s> kur yra zambezės upė </s>
+<s> kur yra zambija </s>
+<s> kur yra zimbabvė </s>
+<s> kur yra šarm el šeichas </s>
+<s> kur yra šiaurės amerika </s>
+<s> kur yra šiaurės amerikos žemynas </s>
+<s> laivyba amazonėje </s>
+<s> laivyba amazonės upėje </s>
+<s> laivyba baikale </s>
+<s> laivyba baikalo ežere </s>
+<s> laivyba gange </s>
+<s> laivyba gango upėje </s>
+<s> laivyba niagaroje </s>
+<s> laivyba niagaros upėje </s>
+<s> laivyba nile </s>
+<s> laivyba nilo upėje </s>
+<s> laivyba titikakoje </s>
+<s> laivyba titikakos ežere </s>
+<s> laivyba urale </s>
+<s> laivyba uralo upėje </s>
+<s> laivyba zambezėje </s>
+<s> laivyba zambezės upėje </s>
+<s> maksimalus amazonės debitas </s>
+<s> maksimalus amazonės upės debitas </s>
+<s> maksimalus gango debitas </s>
+<s> maksimalus gango upės debitas </s>
+<s> maksimalus niagaros debitas </s>
+<s> maksimalus niagaros upės debitas </s>
+<s> maksimalus nilo debitas </s>
+<s> maksimalus nilo upės debitas </s>
+<s> maksimalus uralo debitas </s>
+<s> maksimalus uralo upės debitas </s>
+<s> maksimalus zambezės debitas </s>
+<s> maksimalus zambezės upės debitas </s>
+<s> miestai prie amazonės </s>
+<s> miestai prie amazonės upės </s>
+<s> miestai prie gango </s>
+<s> miestai prie gango upės </s>
+<s> miestai prie niagaros </s>
+<s> miestai prie niagaros upės </s>
+<s> miestai prie nilo </s>
+<s> miestai prie nilo upės </s>
+<s> miestai prie uralo </s>
+<s> miestai prie uralo upės </s>
+<s> miestai prie zambezės </s>
+<s> miestai prie zambezės upės </s>
+<s> minimalus amazonės debitas </s>
+<s> minimalus amazonės upės debitas </s>
+<s> minimalus gango debitas </s>
+<s> minimalus gango upės debitas </s>
+<s> minimalus niagaros debitas </s>
+<s> minimalus niagaros upės debitas </s>
+<s> minimalus nilo debitas </s>
+<s> minimalus nilo upės debitas </s>
+<s> minimalus uralo debitas </s>
+<s> minimalus uralo upės debitas </s>
+<s> minimalus zambezės debitas </s>
+<s> minimalus zambezės upės debitas </s>
+<s> pasaulio vandenynai </s>
+<s> pasaulio žemynai </s>
+<s> plačiau apie afrikos žemyną </s>
+<s> plačiau apie afriką </s>
+<s> plačiau apie airiją </s>
+<s> plačiau apie aliaską </s>
+<s> plačiau apie alpes </s>
+<s> plačiau apie alpių kalnus </s>
+<s> plačiau apie amaną </s>
+<s> plačiau apie amazonės upę </s>
+<s> plačiau apie amazonę </s>
+<s> plačiau apie amerikos piramides </s>
+<s> plačiau apie amerikos žemyną </s>
+<s> plačiau apie ameriką </s>
+<s> plačiau apie anchelio krioklį </s>
+<s> plačiau apie anchelį </s>
+<s> plačiau apie andus </s>
+<s> plačiau apie andų kalnus </s>
+<s> plačiau apie angkorą </s>
+<s> plačiau apie angliją </s>
+<s> plačiau apie antarktidos žemyną </s>
+<s> plačiau apie antarktidą </s>
+<s> plačiau apie arkties vandenyną </s>
+<s> plačiau apie atlanto vandenyną </s>
+<s> plačiau apie atoną </s>
+<s> plačiau apie atėnus </s>
+<s> plačiau apie australijos žemyną </s>
+<s> plačiau apie australiją </s>
+<s> plačiau apie azijos žemyną </s>
+<s> plačiau apie aziją </s>
+<s> plačiau apie baikalo ežerą </s>
+<s> plačiau apie baikalą </s>
+<s> plačiau apie baltijos jūrą </s>
+<s> plačiau apie bojoma </s>
+<s> plačiau apie bojoma krioklį </s>
+<s> plačiau apie braziliją </s>
+<s> plačiau apie chefreno piramidę </s>
+<s> plačiau apie cheopso piramidę </s>
+<s> plačiau apie delį </s>
+<s> plačiau apie didįjį kanjoną </s>
+<s> plačiau apie didžiąją kinijos sieną </s>
+<s> plačiau apie didžiąją kinų sieną </s>
+<s> plačiau apie dubliną </s>
+<s> plačiau apie džemės didžiąją mečetę </s>
+<s> plačiau apie egipto piramides </s>
+<s> plačiau apie egiptą </s>
+<s> plačiau apie ekvadorą </s>
+<s> plačiau apie eurazijos žemyną </s>
+<s> plačiau apie euraziją </s>
+<s> plačiau apie europos žemyną </s>
+<s> plačiau apie europą </s>
+<s> plačiau apie faraonų kapavietes </s>
+<s> plačiau apie gango upę </s>
+<s> plačiau apie gangą </s>
+<s> plačiau apie gavarni </s>
+<s> plačiau apie gavarni krioklį </s>
+<s> plačiau apie goktos krioklį </s>
+<s> plačiau apie goktą </s>
+<s> plačiau apie graikiją </s>
+<s> plačiau apie himalajus </s>
+<s> plačiau apie himalajų kalnus </s>
+<s> plačiau apie igvasu </s>
+<s> plačiau apie igvasu krioklį </s>
+<s> plačiau apie indijos vandenyną </s>
+<s> plačiau apie indiją </s>
+<s> plačiau apie italiją </s>
+<s> plačiau apie jav </s>
+<s> plačiau apie japoniją </s>
+<s> plačiau apie jogo </s>
+<s> plačiau apie jogo krioklį </s>
+<s> plačiau apie jordaniją </s>
+<s> plačiau apie josemitį </s>
+<s> plačiau apie josemičio krioklį </s>
+<s> plačiau apie kairą </s>
+<s> plačiau apie kambodžą </s>
+<s> plačiau apie karibų jūrą </s>
+<s> plačiau apie kernavę </s>
+<s> plačiau apie kilimandžarą </s>
+<s> plačiau apie kiniją </s>
+<s> plačiau apie kinų sieną </s>
+<s> plačiau apie kongą </s>
+<s> plačiau apie korkovadą </s>
+<s> plačiau apie lietuvą </s>
+<s> plačiau apie limą </s>
+<s> plačiau apie londoną </s>
+<s> plačiau apie malį </s>
+<s> plačiau apie maskvą </s>
+<s> plačiau apie mechiką </s>
+<s> plačiau apie meksiką </s>
+<s> plačiau apie meteoros vienuolynus </s>
+<s> plačiau apie mikerino piramidę </s>
+<s> plačiau apie niagaros krioklį </s>
+<s> plačiau apie niagaros upę </s>
+<s> plačiau apie niagarą </s>
+<s> plačiau apie niagarą </s>
+<s> plačiau apie nilo upę </s>
+<s> plačiau apie nilą </s>
+<s> plačiau apie niujorką </s>
+<s> plačiau apie norvegiją </s>
+<s> plačiau apie oslą </s>
+<s> plačiau apie pekiną </s>
+<s> plačiau apie peru </s>
+<s> plačiau apie pietų amerikos žemyną </s>
+<s> plačiau apie pietų ameriką </s>
+<s> plačiau apie pietų vandenyną </s>
+<s> plačiau apie pnompenį </s>
+<s> plačiau apie ramnefjelsfoseno krioklį </s>
+<s> plačiau apie ramnefjelsfoseną </s>
+<s> plačiau apie ramųsį vandenyną </s>
+<s> plačiau apie rio de žaneirą </s>
+<s> plačiau apie romą </s>
+<s> plačiau apie rusiją </s>
+<s> plačiau apie simono petro vienuolyną </s>
+<s> plačiau apie stounhendžą </s>
+<s> plačiau apie tadžmahalą </s>
+<s> plačiau apie tailandą </s>
+<s> plačiau apie tanzaniją </s>
+<s> plačiau apie tel avivą </s>
+<s> plačiau apie tibetą </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> plačiau apie titikaką </s>
+<s> plačiau apie tokiją </s>
+<s> plačiau apie tugelos krioklį </s>
+<s> plačiau apie tugelą </s>
+<s> plačiau apie ugandą </s>
+<s> plačiau apie uluru </s>
+<s> plačiau apie uralo kalnus </s>
+<s> plačiau apie uralo upę </s>
+<s> plačiau apie uralą </s>
+<s> plačiau apie uralą </s>
+<s> plačiau apie vatikaną </s>
+<s> plačiau apie vašingtoną </s>
+<s> plačiau apie viduržemio jūrą </s>
+<s> plačiau apie vietnamą </s>
+<s> plačiau apie viktorijos krioklį </s>
+<s> plačiau apie viktoriją </s>
+<s> plačiau apie vilnių </s>
+<s> plačiau apie zambezės upę </s>
+<s> plačiau apie zambezę </s>
+<s> plačiau apie zambiją </s>
+<s> plačiau apie zimbabvę </s>
+<s> plačiau apie šarm el šeichą </s>
+<s> plačiau apie šiaurės amerikos žemyną </s>
+<s> plačiau apie šiaurės ameriką </s>
+<s> seniausi europos ežerai </s>
+<s> seniausi europos miestai </s>
+<s> seniausi pasaulio ežerai </s>
+<s> seniausi pasaulio miestai </s>
+<s> seniausi pasaulio žemynai </s>
+<s> seniausia pasaulio jūra </s>
+<s> seniausias europos ežeras </s>
+<s> seniausias pasaulio ežeras </s>
+<s> seniausios europos valstybės </s>
+<s> seniausios pasaulio jūros </s>
+<s> seniausios pasaulio upės </s>
+<s> seniausios pasaulio valstybės </s>
+<s> turizmas airijoje </s>
+<s> turizmas aliaskoje </s>
+<s> turizmas amane </s>
+<s> turizmas anglijoje </s>
+<s> turizmas atėnuose </s>
+<s> turizmas brazilijoje </s>
+<s> turizmas delyje </s>
+<s> turizmas dubline </s>
+<s> turizmas egipte </s>
+<s> turizmas ekvadore </s>
+<s> turizmas graikijoje </s>
+<s> turizmas indijoje </s>
+<s> turizmas italijoje </s>
+<s> turizmas jav </s>
+<s> turizmas japonijoje </s>
+<s> turizmas jordanijoje </s>
+<s> turizmas kaire </s>
+<s> turizmas kambodžoje </s>
+<s> turizmas kernavėje </s>
+<s> turizmas kinijoje </s>
+<s> turizmas konge </s>
+<s> turizmas lietuvoje </s>
+<s> turizmas limoje </s>
+<s> turizmas londone </s>
+<s> turizmas malyje </s>
+<s> turizmas maskvoje </s>
+<s> turizmas mechike </s>
+<s> turizmas meksikoje </s>
+<s> turizmas niujorke </s>
+<s> turizmas norvegijoje </s>
+<s> turizmas osle </s>
+<s> turizmas pekine </s>
+<s> turizmas peru </s>
+<s> turizmas pnompenyje </s>
+<s> turizmas rio de žaneire </s>
+<s> turizmas romoje </s>
+<s> turizmas rusijoje </s>
+<s> turizmas tailande </s>
+<s> turizmas tanzanijoje </s>
+<s> turizmas tel avive </s>
+<s> turizmas tibete </s>
+<s> turizmas tokijyje </s>
+<s> turizmas ugandoje </s>
+<s> turizmas vatikane </s>
+<s> turizmas vašingtone </s>
+<s> turizmas vietname </s>
+<s> turizmas vilniuje </s>
+<s> turizmas zambijoje </s>
+<s> turizmas zimbabvėje </s>
+<s> turizmas šarm el šeiche </s>
+<s> vandenynų augalija </s>
+<s> vandenynų gyvūnija </s>
+<s> vidutinis amazonės debitas </s>
+<s> vidutinis amazonės upės debitas </s>
+<s> vidutinis gango debitas </s>
+<s> vidutinis gango upės debitas </s>
+<s> vidutinis niagaros debitas </s>
+<s> vidutinis niagaros upės debitas </s>
+<s> vidutinis nilo debitas </s>
+<s> vidutinis nilo upės debitas </s>
+<s> vidutinis uralo debitas </s>
+<s> vidutinis uralo upės debitas </s>
+<s> vidutinis zambezės debitas </s>
+<s> vidutinis zambezės upės debitas </s>
+<s> į amazonės upę įteka </s>
+<s> į amazonės upę įteka upės </s>
+<s> į amazonę įteka </s>
+<s> į amazonę įteka upės </s>
+<s> į arkties vandenyną įteka upės </s>
+<s> į atlanto vandenyną įteka upės </s>
+<s> į baikalo ežerą įteka upės </s>
+<s> į baikalą įteka upės </s>
+<s> į baltijos jūrą įteka upės </s>
+<s> į gango upę įteka </s>
+<s> į gango upę įteka upės </s>
+<s> į gangą įteka </s>
+<s> į gangą įteka upės </s>
+<s> į indijos vandenyną įteka upės </s>
+<s> į karibų jūrą įteka upės </s>
+<s> į niagaros upę įteka </s>
+<s> į niagaros upę įteka upės </s>
+<s> į niagarą įteka </s>
+<s> į niagarą įteka upės </s>
+<s> į nilo upę įteka </s>
+<s> į nilo upę įteka upės </s>
+<s> į nilą įteka </s>
+<s> į nilą įteka upės </s>
+<s> į pietų vandenyną įteka upės </s>
+<s> į ramųjį vandenyną įteka upės </s>
+<s> į titikakos ežerą įteka upės </s>
+<s> į titikaką įteka upės </s>
+<s> į uralo upę įteka </s>
+<s> į uralo upę įteka upės </s>
+<s> į uralą įteka </s>
+<s> į uralą įteka upės </s>
+<s> į viduržemio jūrą įteka upės </s>
+<s> į zambezės upę įteka </s>
+<s> į zambezės upę įteka upės </s>
+<s> į zambezę įteka </s>
+<s> į zambezę įteka upės </s>
+<s> įspūdingiausi pasaulio statiniai </s>
+<s> šarm el šeichas įkurtas </s>
+<s> šarm el šeichas žemėlapyje </s>
+<s> šarm el šeicho gyventojų skaičius </s>
+<s> šarm el šeicho gyventojų tankis </s>
+<s> šarm el šeicho istorija </s>
+<s> šarm el šeicho lankytinos vietos </s>
+<s> šarm el šeicho muziejai </s>
+<s> šarm el šeicho nuotraukos </s>
+<s> šarm el šeicho plotas </s>
+<s> šarm el šeicho transportas </s>
+<s> šarm el šeicho vaizdai </s>
+<s> šarm el šeicho žemėlapis </s>
+<s> šiaurės amerikos amžius </s>
+<s> šiaurės amerikos civilizacija </s>
+<s> šiaurės amerikos ekonomika </s>
+<s> šiaurės amerikos gyventojų skaičius </s>
+<s> šiaurės amerikos istorija </s>
+<s> šiaurės amerikos kalbos </s>
+<s> šiaurės amerikos klimatas </s>
+<s> šiaurės amerikos kultūra </s>
+<s> šiaurės amerikos nuotraukos </s>
+<s> šiaurės amerikos plotas </s>
+<s> šiaurės amerikos tautos </s>
+<s> šiaurės amerikos vaizdai </s>
+<s> šiaurės amerikos žemyno amžius </s>
+<s> šiaurės amerikos žemyno civilizacija </s>
+<s> šiaurės amerikos žemyno ekonomika </s>
+<s> šiaurės amerikos žemyno gyventojų skaičius </s>
+<s> šiaurės amerikos žemyno istorija </s>
+<s> šiaurės amerikos žemyno kalbos </s>
+<s> šiaurės amerikos žemyno klimatas </s>
+<s> šiaurės amerikos žemyno kultūra </s>
+<s> šiaurės amerikos žemyno nuotraukos </s>
+<s> šiaurės amerikos žemyno plotas </s>
+<s> šiaurės amerikos žemyno tautos </s>
+<s> šiaurės amerikos žemyno vaizdai </s>
+<s> žemynų formavimasis </s>
+<s> žvejyba amazonėje </s>
+<s> žvejyba amazonės upėje </s>
+<s> žvejyba arkties vandenyne </s>
+<s> žvejyba atlanto vandenyne </s>
+<s> žvejyba baikale </s>
+<s> žvejyba baikalo ežere </s>
+<s> žvejyba baltijos jūroje </s>
+<s> žvejyba gange </s>
+<s> žvejyba gango upėje </s>
+<s> žvejyba indijos vandenyne </s>
+<s> žvejyba karibų jūroje </s>
+<s> žvejyba niagaroje </s>
+<s> žvejyba niagaros upėje </s>
+<s> žvejyba nile </s>
+<s> žvejyba nilo upėje </s>
+<s> žvejyba pietų vandenyne </s>
+<s> žvejyba ramiajame vandenyne </s>
+<s> žvejyba titikakoje </s>
+<s> žvejyba titikakos ežere </s>
+<s> žvejyba urale </s>
+<s> žvejyba uralo upėje </s>
+<s> žvejyba viduržemio jūroje </s>
+<s> žvejyba zambezėje </s>
+<s> žvejyba zambezės upėje </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> užverk naršyklę </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+<s> kokia lietuvos ekonomika </s>
+<s> lietuvos bendrasis vidaus produktas </s>
+<s> lietuvos politinė santvarka </s>
+<s> laivyba baikalo ežere </s>
+<s> niagaros krioklio nuotraukos </s>
+<s> niagaros upės vidutinė vandens temperatūra </s>
+<s> nilo upės gražiausios vietos </s>
+<s> pekino gyventojų tankis </s>
+<s> plačiau apie titikakos ežerą </s>
+<s> simono petro vienuolyno žemėlapis </s>
+<s> tadžmahalas kultūros paveldas </s>
+<s> tanzanijos gyventojų skaičius </s>
+<s> tel avivo lankytinos vietos </s>
+<s> tibeto politinė santvarka </s>
+<s> ugandos pragvenimo lygis </s>
+<s> zambezės apsemiamos teritorijos </s>
+<s> amazonės gražiausios vietos </s>
+<s> kiek laiko statė mikerino piramidę </s>
+<s> kokios valstybės supa viduržemio jūrą </s>
+<s> kur yra didžioji kinijos siena </s>
+
