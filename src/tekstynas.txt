@@ -1,0 +1,12 @@
+<s> koks pelno mokesčio įmokos kodas </s>
+<s> kokie pelno mokesčio tarifai </s>
+<s> kaip įsigyti verslo liudijimą </s>
+<s> laba diena </s>
+<s> labas vakaras </s>
+<s> laba </s>
+<s> kaip pradėti deklaracijos pildymą portale </s>
+<s> kaip galima atsispausdinti deklaraciją </s>
+<s> ar galima pildyti patikslintą deklaraciją portale </s>
+<s> ačiū </s>
+<s> dėkoju </s>
+<s> viso gero </s>
